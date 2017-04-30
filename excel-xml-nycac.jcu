@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>excel-xml-nycac</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>excel-xml-nycac</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>converter.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>example_converter.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<breakpoints>
+		<breakpoint>
+			<path>converter.java</path>
+			<class/>
+			<session/>
+			<line>45</line>
+			<enable>true</enable>
+		</breakpoint>
+	</breakpoints>
+	<symboltables>
+		<symboltable>
+			<path>example_converter.java.sdk</path>
+			<symbols>
+				<symbol>example_converter</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>converter.java.sdk</path>
+			<symbols>
+				<symbol>converter</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

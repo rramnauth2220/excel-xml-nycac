@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="admin" content-collection-id="admin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOprocess2004\codes\New York\admin_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\New York\admin_Output\admin.mak" css-stylesheet-href="#!-- #ID=admin_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\New York\admin_Output\XML\" css-stylesheet-name="admin_css" makefile-document-depth="2">
+	<REFERENCE>
+		<TITLE id="0-0-0-10160" indent="0">Chapter 15: Tax On Coin Operated Amusement Devices [Repealed]</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-553" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-10160" number="10208" version="3">
+			<HEADING>Chapter 15: Tax On Coin Operated Amusement Devices [Repealed]</HEADING>
+			<PARA>
+				<DESTINATION id="JD_T11C015" name="T11C015"/>Chapter 15: Tax On Coin Operated Amusement Devices [Repealed]</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-556" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-559" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-562" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-565" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-568" level-depth="7" toc-section="false">
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10161" number="10209" version="3">
+									<HEADING>§ 11-1501 Definitions. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1501" name="T11C015_11-1501"/>§ 11-1501 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10162" number="10210" version="3">
+									<HEADING>§ 11-1502 Imposition of tax. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1502" name="T11C015_11-1502"/>§ 11-1502 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Imposition of tax. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10163" number="10211" version="3">
+									<HEADING>§ 11-1503 Exemptions. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1503" name="T11C015_11-1503"/>§ 11-1503 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Exemptions. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10164" number="10212" version="3">
+									<HEADING>§ 11-1504 Records to be kept. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1504" name="T11C015_11-1504"/>§ 11-1504 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Records to be kept. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10165" number="10213" version="3">
+									<HEADING>§ 11-1505 Returns. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1505" name="T11C015_11-1505"/>§ 11-1505 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Returns. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10166" number="10214" version="3">
+									<HEADING>§ 11-1506 Payment of tax. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1506" name="T11C015_11-1506"/>§ 11-1506 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Payment of tax. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10167" number="10215" version="3">
+									<HEADING>§ 11-1507 Stamps. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1507" name="T11C015_11-1507"/>§ 11-1507 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stamps. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10168" number="10216" version="3">
+									<HEADING>§ 11-1508 Determination of tax. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1508" name="T11C015_11-1508"/>§ 11-1508 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Determination of tax. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10169" number="10217" version="3">
+									<HEADING>§ 11-1509 Refunds. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1509" name="T11C015_11-1509"/>§ 11-1509 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Refunds. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10170" number="10218" version="3">
+									<HEADING>§ 11-1510 Remedies exclusive. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1510" name="T11C015_11-1510"/>§ 11-1510 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Remedies exclusive. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10171" number="10219" version="3">
+									<HEADING>§ 11-1511 Reserves. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1511" name="T11C015_11-1511"/>§ 11-1511 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Reserves. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10172" number="10220" version="3">
+									<HEADING>§ 11-1512 Proceedings to recover tax. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1512" name="T11C015_11-1512"/>§ 11-1512 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Proceedings to recover tax. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10173" number="10221" version="3">
+									<HEADING>§ 11-1513 General powers of the commissioner of finance. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1513" name="T11C015_11-1513"/>§ 11-1513 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General powers of the commissioner of finance. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10174" number="10222" version="3">
+									<HEADING>§ 11-1514 Administration of oaths and compelling testimony. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1514" name="T11C015_11-1514"/>§ 11-1514 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Administration of oaths and compelling testimony. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10175" number="10223" version="3">
+									<HEADING>§ 11-1515 Interest and penalties. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1515" name="T11C015_11-1515"/>§ 11-1515 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Interest and penalties. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10176" number="10224" version="3">
+									<HEADING>§ 11-1516 Returns to be secret. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1516" name="T11C015_11-1516"/>§ 11-1516 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Returns to be secret. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10177" number="10225" version="3">
+									<HEADING>§ 11-1517 Notices and limitations of time. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1517" name="T11C015_11-1517"/>§ 11-1517 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notices and limitations of time. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10178" number="10226" version="3">
+									<HEADING>§ 11-1518 Construction and enforcement. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1518" name="T11C015_11-1518"/>§ 11-1518 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Construction and enforcement. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-571" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-10179" number="10227" version="3">
+									<HEADING>§ 11-1519 Disposition of revenues. [Repealed] </HEADING>
+									<PARA>
+										<DESTINATION id="JD_T11C015_11-1519" name="T11C015_11-1519"/>§ 11-1519 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disposition of revenues. [Repealed] </CHARFORMAT>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

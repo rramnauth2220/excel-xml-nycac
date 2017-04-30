@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="admin" content-collection-id="admin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOprocess2004\codes\New York\admin_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\New York\admin_Output\admin.mak" css-stylesheet-href="#!-- #ID=admin_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\New York\admin_Output\XML\" css-stylesheet-name="admin_css" makefile-document-depth="2">
+	<REFERENCE>
+		<TITLE id="0-0-0-1091" indent="0">Chapter 5: Borough Presidents</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-631" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-1091" number="1091" version="3">
+			<HEADING>Chapter 5: Borough Presidents</HEADING>
+			<PARA>
+				<DESTINATION id="JD_T03C005" name="T03C005"/>Chapter 5: Borough Presidents</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-634" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-637" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-640" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-643" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-646" level-depth="7" toc-section="false">
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1092" number="1092" version="3">
+									<HEADING>§ 3-501 Receipts to be recorded and accounted for. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-501" name="3-501"/>§ 3-501 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Receipts to be recorded and accounted for. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1093" number="1093" version="3">
+										<PARA>Each borough president shall enter the names of all persons from whom he or she may receive money for the city, on trust account or otherwise, with the amounts received, on what account, and when paid, in books to be provided for that purpose and kept in the borough president&apos;s office, open at all convenient times to public inspection. The borough president shall render a verified account thereof, item by item, to the comptroller, on Thursday of each week, and shall thereupon pay over the amount so received to the director of finance, from whom he or she shall receive duplicate vouchers therefor, one of which the borough president shall file in the office of the comptroller on the same day.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1094" number="1094" version="3">
+									<HEADING>§ 3-502 Permits. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-502" name="3-502"/>§ 3-502 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Permits. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1095" number="1095" version="3">
+										<PARA>In all cases where provision is made by law that the consent of a borough president shall be obtained to authorize any act to be done, he or she may grant a permit therefor, subject to the restrictions of all laws in relation thereto. Upon granting any such permit, the borough president may exact such cash deposit or bond, or both, as he or she may deem necessary to safeguard the interests of the city.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1096" number="1096" version="3">
+									<HEADING>§ 3-503 President of borough to furnish information. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-503" name="3-503"/>§ 3-503 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">President of borough to furnish information. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1097" number="1097" version="3">
+										<PARA>The president of any borough shall furnish the council and the board of estimate with such surveys, diagrams or other information as may enable them to discharge their duties relative to street and park improvements.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1098" number="1098" version="3">
+									<HEADING>§ 3-504 Borough president; right of entry. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-504" name="3-504"/>§ 3-504 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Borough president; right of entry. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1099" number="1099" version="3">
+										<PARA>The president of any borough may enter in the day time upon any lands, tenements, hereditaments and waters which he or she shall deem necessary to be surveyed, used or converted, for the purpose of laying out, surveying and monumenting parks, streets, bridges, tunnels and approaches to bridges and tunnels or marking any boundary line or lines.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1100" number="1100" version="3">
+									<HEADING>§ 3-505 Street numbers. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-505" name="3-505"/>§ 3-505 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Street numbers. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1101" number="1101" version="3">
+										<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-17">
+											<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note: </CHARFORMAT>this § 3-505 has been AMENDED by <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-24" type="Web" url="http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1681121&amp;GUID=1F039AC9-4CB9-490D-9FF7-37BBCA4CC654&amp;Options=ID%7cText%7c&amp;Search=">L.L. 2017/026, 3/18/2017, effective 3/18/2018</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-011]</HIGHLIGHTER>
+										</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-1102" number="1102" version="3">
+										<PARA>
+											<TAB tab-count="1"/>a.<TAB tab-count="1"/>Requirements. The owner, agent, lessee or other person in charge of any building in the city upon a street to which street numbers of buildings have been assigned by the president of the borough in which such building is situated, shall cause the proper street number or numbers of such buildings to be displayed in such manner that the street number or numbers may at all times be plainly legible from the sidewalk in front of such building. The term &quot;front&quot; as used in this section shall be construed to mean that side of the building which faces the street on which the number or numbers of such building, or premises on which such building is situated, have been allotted. The number or numbers shall be displayed on such side of such building or premises. Each borough president shall have the power to establish and enforce rules and regulations relating to the size, form, visibility and location of street numbers in accordance with the requirements of this section.</PARA>
+									</RECORD>
+									<RECORD id="0-0-0-1103" number="1103" version="3">
+										<PARA>
+											<TAB tab-count="1"/>b.<TAB tab-count="1"/>Violations. If the owner, lessee, agent or other person in charge of any building in the city upon a street to which street numbers of buildings have been assigned by the president of the borough in which such building is situated shall fail to display the proper street number of such building, as provided in the foregoing subdivision, the president of the borough in which such building is situated shall forthwith serve such person or persons with a copy of this section, and if after thirty days&apos; notice the owner, lessee, agent or other person in charge of such building shall fail or neglect to comply with the provisions thereof, he or she shall be subject to a penalty of twenty-five dollars, which shall be sued for and collected in the name of the city. Any person who shall continue any such offense shall pay an additional sum of five dollars for each day such offense shall continue. </PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1104" number="1104" version="3">
+									<HEADING>§ 3-506 Borough presidents to adjust numbering. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-506" name="3-506"/>§ 3-506 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Borough presidents to adjust numbering. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1105" number="1105" version="3">
+										<PARA>In all cases where a street shall have been numbered or renumbered, the borough president having jurisdiction shall thereafter adjust and renumber such street as the same may be required from time to time. In numbering and renumbering houses, the borough president shall leave sufficient numbers on each block, so that, under any circumstances, there would be but one block where a change would be required, in case of renumbering at any subsequent time.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1106" number="1106" version="3">
+									<HEADING>§ 3-507 Numbers in certain sections in the borough of Manhattan. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-507" name="3-507"/>§ 3-507 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Numbers in certain sections in the borough of Manhattan. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1107" number="1107" version="3">
+										<PARA>Whenever any street north of Ninth street, inclusive, in the borough of Manhattan, shall be directed to be numbered or renumbered, the president of such borough shall cause the numbers to commence at Fifth avenue, numbering east and west, beginning with number one, on the west side of Fifth avenue; number one hundred, on the west side of Sixth avenue; number two hundred on the west side of Seventh avenue, and so on, east and west of Fifth avenue, through the whole series of streets north of Ninth street, and including Ninth street. Such streets shall hereafter be called and known as East Ninth and West Ninth street, and so on, the dividing line to be Fifth avenue. </PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1108" number="1108" version="3">
+									<HEADING>§ 3-508 Excavations or embankments near landmarks. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-508" name="3-508"/>§ 3-508 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Excavations or embankments near landmarks. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1109" number="1109" version="3">
+										<PARA>It shall be unlawful for any person to make any excavation or embankment, or to lay or move any pavement or flagging, within three feet of any monument or bolt, which has been set by proper authority, or designated on any official map as a landmark to denote street lines within the city, unless a permit therefor has been obtained from the president of the borough in which such monument or bolt is situated. Applications for such permits shall be in writing, and shall set forth the nature of the work proposed, and the location of all monuments or other landmarks affected thereby. The borough president shall thereupon cause one of the city surveyors or an engineer in the borough president&apos;s office to take such measurements and field notes as may be necessary to restore such monuments or bolts to their correct position after the completion of the contemplated work, and, when such measurements and field notes have been taken, the required permit shall be issued.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1110" number="1110" version="3">
+									<HEADING>§ 3-509 Removal or covering up of landmarks. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-509" name="3-509"/>§ 3-509 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Removal or covering up of landmarks. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1111" number="1111" version="3">
+										<PARA>It shall be unlawful for any person to remove or cover up a monument or bolt for designating any street, without giving three days&apos; notice in writing of his or her intention so to do to the commissioner of transportation and to the president of the borough in which the monument or bolt is situated. Upon receiving such a notice, the borough president shall cause one of the city surveyors, or an engineer in the borough president&apos;s office to take the necessary measures to raise or lower such monument or bolt to the proper grade of the street, and, when necessary, to cause such alteration to be noted on records to be kept in the borough president&apos;s office for that purpose. Whenever a borough president shall ascertain that any monument or bolt has been removed, without such notice, he or she shall forthwith cause the same to be placed in its proper position, and shall note the same on the records in the manner hereinbefore stated. The expenses attending such replacement shall be paid by the comptroller, on the certificate of the borough president causing the work to be done.</PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+							<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-649" level-depth="8" toc-section="true">
+								<RECORD id="0-0-0-1112" number="1112" version="3">
+									<HEADING>§ 3-510 Violations. </HEADING>
+									<PARA>
+										<DESTINATION id="JD_3-510" name="3-510"/>§ 3-510 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Violations. </CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+									<RECORD id="0-0-0-1113" number="1113" version="3">
+										<PARA>Any person who shall make any excavation or embankment, or lay or take up any pavement or flagging within three feet of any monument, bolt or other landmark, without having first obtained a permit to perform such work, or who shall in any way remove or deface any monument, bolt or other landmark, shall be punished for each offense by a fine of fifty dollars, imprisonment for not more than thirty days, or both. </PARA>
+									</RECORD>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

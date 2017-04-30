@@ -1,0 +1,10 @@
+LEVEL 	CONTENT
+1	Title
+2	Chapter
+3	Subchapter
+4	Appendix
+5 	Part
+6 	Article
+7	Subarticle
+8	Section
+9 	Paragraph

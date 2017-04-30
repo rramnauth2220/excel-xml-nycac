@@ -1,0 +1,2168 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="admin" content-collection-id="admin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOprocess2004\codes\New York\admin_Output\" default-split-level="Chapter" makefile-filename="D:\process\NFOprocess2004\codes\New York\admin_Output\admin.mak" css-stylesheet-href="#!-- #ID=admin_css_id --#" xml-output-dir="D:\process\NFOprocess2004\codes\New York\admin_Output\XML\" css-stylesheet-name="admin_css" makefile-document-depth="2">
+	<REFERENCE>
+		<TITLE id="0-0-0-102" indent="0">Chapter 1: Mayor</TITLE>
+	</REFERENCE>
+	<LEVEL style-name="Title" style-name-escaped="Title" style-id="0-0-0-548" level-depth="1" toc-section="false">
+		<RECORD id="0-0-0-101" number="101" version="4">
+			<HEADING>Title 3: Elected officials</HEADING>
+			<PARA>
+				<DESTINATION id="JD_T03" name="T03"/>Title 3: Elected officials</PARA>
+		</RECORD>
+		<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-551" level-depth="2" toc-section="false">
+			<RECORD id="0-0-0-102" number="102" version="4">
+				<HEADING>Chapter 1: Mayor</HEADING>
+				<PARA>
+					<DESTINATION id="JD_T03C001" name="T03C001"/>Chapter 1: Mayor</PARA>
+			</RECORD>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-554" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-103" number="103" version="4">
+					<HEADING>Subchapter 1: [No Title]</HEADING>
+					<PARA>Subchapter 1: [No Title]</PARA>
+				</RECORD>
+				<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-557" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-560" level-depth="5" toc-section="false">
+						<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-563" level-depth="6" toc-section="false">
+							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-566" level-depth="7" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-104" number="104" version="4">
+										<HEADING>§ 3-101 Flag of the mayor. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-101" name="T03C001_3-101"/>§ 3-101 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Flag of the mayor. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-105" number="105" version="4">
+											<PARA>The official flag of the mayor shall be the same in design as the official flag of the city. Upon the middle or white bar, however, and above the design of the seal in a semi-circle, there shall be five blue five-pointed stars, typifying the five boroughs of the city. The dimensions of such flag shall be thirty-three inches by forty-four inches.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-106" number="106" version="4">
+										<HEADING>§ 3-102 Flags and decorations; city hall park. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-102" name="T03C001_3-102"/>§ 3-102 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Flags and decorations; city hall park. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-107" number="107" version="4">
+											<PARA>All authority to display flags or other decorations on, in or about the public buildings within the city hall park, is vested in the mayor, unless otherwise ordered by the council. a. A Prisoner of War/Missing in Action POW/(MIA) flag shall be flown over City Hall every day the American flag is flown until such time as all persons listed as missing in action, from any branch of the United States Armed Forces, and all persons from any branch of our armed forces who are prisoners of war, are accounted for by the United States Government. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-108" number="108" version="4">
+										<HEADING>§ 3-103 Apprehension and conviction of criminals. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-103" name="T03C001_3-103"/>§ 3-103 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Apprehension and conviction of criminals. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-109" number="109" version="4">
+											<PARA>The mayor, whenever he or she shall deem it necessary, may issue a proclamation offering a reward for information which shall lead to the apprehension or apprehension and conviction of any person who may have committed a crime within the city. In such proclamation, the mayor may offer a reward not exceeding five hundred dollars for the apprehension of any such person and not exceeding ten thousand dollars for the apprehension and conviction of any such person, provided, however, that the mayor may offer a reward not exceeding one hundred thousand dollars for the apprehension and conviction of any person found guilty in connection with an act of terrorism involving loss of life or substantial injury to persons or property. Any such reward shall be paid out of the city treasury upon a certificate of the mayor that the service required has been performed. For purposes of this section, &quot;terrorism&quot; means premediatated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-110" number="110" version="4">
+										<HEADING>§ 3-104 Declaration of emergency. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-104" name="T03C001_3-104"/>§ 3-104 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Declaration of emergency. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-111" number="111" version="4">
+											<PARA>Whenever the mayor determines that there has been an act of violence or a flagrant and substantial defiance of or resistance to a lawful exercise of public authority, and that, partly on account thereof, there is reason to believe that there exists a clear and present danger of a riot or other general public disorder, widespread disobedience of the law, and substantial injury to persons or to property, all of which constitutes a threat to public peace or order and to the general welfare of the city or a part or parts thereof, the mayor may declare that a state of emergency exists within the city or any part of parts thereof.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-112" number="112" version="4">
+										<HEADING>§ 3-105 Emergency measures. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-105" name="T03C001_3-105"/>§ 3-105 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Emergency measures. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-113" number="113" version="4">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Whenever the mayor, pursuant to section 3-104, declares that a state of emergency exists, (a) the emergency measures provided in subdivision two of this section shall thereupon be in effect during the period of said emergency and throughout the city and (b) the mayor may order and promulgate all or any of the emergency measures provided in subdivision three of this section, in whole or in part, and with such limitations and conditions as he or she may deem appropriate, and any such emergency measure so ordered and promulgated shall thereupon be in effect during the period of said emergency and in the area or areas for which the emergency has been declared. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-115" number="114" version="149">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The sale or other transfer of possession, with or without consideration, offer to sell or so transfer, and the purchase of any ammunition, guns and other firearms of any size or description is prohibited.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-116" number="115" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The displaying by or in any store or shop of any ammunition, guns and other firearms of any size or description is prohibited.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-117" number="116" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The possession in a public place of a rifle or shotgun by any person, except a duly authorized law enforcement official or person in military service acting in the official performance of his or her duty, is prohibited.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-118" number="117" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The possession of any rifle or shotgun in any place, public or private, by a nonresident who has not been issued a permit by the police commissioner, for the purchase and possession of rifles and shotguns, is prohibited.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-119" number="118" version="4">
+											<PARA>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>(a) The establishment of curfews, including, but not limited to, the prohibition of or restrictions on pedestrian and vehicular movement, standing and parking, except for the provision of designated essential services such as fire, police and hospital services including the transportation of patients thereto, utility emergency repairs and emergency calls by physicians.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-120" number="119" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The prohibition of the sale of any alcoholic beverage.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-121" number="120" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The prohibition of the possession on the person in a public place of any portable container containing any alcoholic beverage.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-122" number="121" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The closing of places of public assemblage with designated exceptions.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-123" number="122" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The prohibition of the sale or other transfer of possession, with or without consideration, of gasoline or any other flammable or combustible liquid altogether or except by delivery into a tank properly affixed to an operable motor-driven vehicle, bike, scooter, boat or airplane and necessary for the propulsion thereof.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-124" number="123" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The prohibition of the possession in a public place of any portable container containing gasoline or any other flammable or combustible liquid. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-125" number="124" version="4">
+										<HEADING>§ 3-106 Filing and publication. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-106" name="T03C001_3-106"/>§ 3-106 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Filing and publication. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-126" number="125" version="4">
+											<PARA>Any state of emergency or emergency measure declared or ordered and promulgated by virtue of the terms of the code shall, as promptly as practicable, be filed in the office of the city clerk and published in the City Record and shall also be delivered to appropriate news media for publication and radio and television broadcast thereby. If practicable, such state of emergency declaration or emergency measure shall also be publicized by other appropriate means such as by posting and loud-speakers.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-127" number="126" version="4">
+										<HEADING>§ 3-107 Duration and termination of emergency. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-107" name="T03C001_3-107"/>§ 3-107 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Duration and termination of emergency. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-128" number="127" version="4">
+											<PARA>A state of emergency established under the code shall commence upon the declaration thereof by the mayor and shall terminate at the end of a period of five consecutive days thereafter, unless prior to the end of such five day period, the mayor shall either terminate such state of emergency or shall declare an additional state of emergency. Any such additional state of emergency shall commence and terminate as provided in section 3-104 and in this section.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-129" number="128" version="4">
+										<HEADING>§ 3-108 Violations. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-108" name="T03C001_3-108"/>§ 3-108 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Violations. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-130" number="129" version="4">
+											<PARA>Any knowing violation of a provision of any emergency measure established pursuant to this chapter shall be a class B misdemeanor punishable by a fine of not more than five hundred dollars, or by imprisonment for not more than three months, or both.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-131" number="130" version="4">
+										<HEADING>§ 3-109 Definitions. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-109" name="T03C001_3-109"/>§ 3-109 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Definitions. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-132" number="131" version="4">
+											<PARA>For the purposes of this chapter:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-133" number="132" version="4">
+											<PARA>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>&quot;Alcoholic beverage&quot; shall mean an alcoholic beverage as that term is defined by section three of the alcoholic beverage control law but shall not include patented medicine.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-134" number="133" version="4">
+											<PARA>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>&quot;Rifle&quot; and &quot;shotgun&quot; shall mean a rifle and shotgun as those terms are defined by section 10-301 of the code. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-135" number="134" version="4">
+										<HEADING>§ 3-110 Parking spaces. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-110" name="T03C001_3-110"/>§ 3-110 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Parking spaces. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-136" number="135" version="149">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Notwithstanding any other provision of law, the mayor, within the appropriation provided therefor, shall have the power to establish parking spaces, pursuant to section seventy-two-j of the general municipal law and assign whatever functions are necessary in connection with the construction, operation and maintenance of such parking spaces to appropriate city departments or agencies. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88465" number="136" version="149">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any city department or agency to which functions are assigned by the mayor in connection with the operation and maintenance of such parking space may adopt rules and regulations necessary for the carrying out of such functions. Violation of such rules and regulations shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days imprisonment, a fine of not more than fifty dollars, or both. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-137" number="137" version="4">
+										<HEADING>§ 3-111 [Drug Enforcement and Drug Abuse Task Force.] </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-111" name="T03C001_3-111"/>§ 3-111 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">[Drug Enforcement and Drug Abuse Task Force.] </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-138" number="138" version="149">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Composition.</CHARFORMAT> </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-139" number="139" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The mayor shall appoint a drug enforcement and drug abuse task force which shall be chaired by the criminal justice coordinator and shall consist of, but not be limited to, representatives of the police department; human resources administration; department of health and mental hygiene; department of correction; department of housing preservation and development; department of finance; department of probation; and the criminal justice coordinator.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-140" number="140" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The Substance Abuse Task Force shall request that the following agencies or officers send their own representatives to serve on this task force: Health and Hospitals Corporation; Board of Education; the New York County, Kings County, Queens County, Richmond County and Bronx County District Attorney&apos;s offices; and the Special Narcotics Prosecutor.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-141" number="141" version="149">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Report. </CHARFORMAT>The Drug Enforcement and Drug Abuse Task Force shall submit an informal quarterly report of its ongoing coordination activities and a formal annual report in September of each year to the Mayor and the Council. Such report shall include any findings and recommendations of the task force. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-142" number="142" version="4">
+										<HEADING>§ 3-111 Safety program. [Repealed] </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-111" name="T03C001_3-111"/>§ 3-111 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Safety program. [Repealed] </CHARFORMAT>
+										</PARA>
+									</RECORD>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-143" number="143" version="4">
+										<HEADING>§ 3-112 On-line reporting of domestic violence and hate crime statistics. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-112" name="T03C001_3-112"/>§ 3-112 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">On-line reporting of domestic violence and hate crime statistics. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-144" number="144" version="4">
+											<PARA>The mayor&apos;s office of operations shall include the following police department statistics among the data presented on the My Neighborhood Statistics pages of the city&apos;s website or on any successor pages of such website that are substantially similar in form or function:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-145" number="145" version="4">
+											<PARA>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>the number of domestic violence radio runs;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-146" number="146" version="4">
+											<PARA>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>the number of murders related to domestic violence;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-147" number="147" version="4">
+											<PARA>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>the number of rapes related to domestic violence;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-148" number="148" version="4">
+											<PARA>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>the number of felonious assaults related to domestic violence;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-149" number="149" version="4">
+											<PARA>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>the number of hate crimes;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-150" number="150" version="4">
+											<PARA>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>the number of murders determined by the police department to be hate crimes; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-151" number="151" version="149">
+											<PARA>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>the number of felonious assaults determined by the police department to be hate crimes. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88466" number="152" version="149">
+											<PARA>For purposes of subdivisions (e) through (g) of this section, the term &quot;hate crime&quot; shall have the meaning ascribed to it by section 485.05 of the New York penal law. Such statistics shall be provided in a manner consistent with other police department data available on the pages of such website. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-152" number="153" version="4">
+										<HEADING>§ 3-113* Notification of status of government services during severe weather conditions or other emergency. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-113*" name="T03C001_3-113*"/>§ 3-113* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Notification of status of government services during severe weather conditions or other emergency. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-153" number="154" version="149">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>An agency or agencies designated by the mayor shall notify the public of the status of any New York city government services that are suspended or significantly disrupted due to severe weather conditions or other emergency. Such government services shall include, but not be limited to, collection of solid waste, public transportation, on-street parking, and the operation of educational facilities. The notification shall be through any medium that is reasonably expected to reach a substantial proportion of the community or communities impacted by the suspension or disruption of government services, provided that, in addition to notification by any other media, the designated agency or agencies shall maintain a dedicated website on which all information regarding the status of disrupted government services shall be made publicly available. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88467" number="155" version="149">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>An agency or agencies designated by the mayor shall evaluate and determine the feasibility of posting information regarding the suspension or significant disruption of services provided by not-for-profit organizations, who contract with the city to provide such services, on the dedicated website established pursuant to this section. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-154" number="156" version="4">
+										<HEADING>§ 3-113 [Citywide temporary emergency housing and associated services; reports; date.]* </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-113" name="T03C001_3-113"/>§ 3-113 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">[Citywide temporary emergency housing and associated services; reports; date.]* </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-155" number="157" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Definitions. For the purposes of this section, the following terms shall have the following meanings: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-156" number="158" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>&quot;Adult&quot; shall mean an individual 18 years of age or older;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-157" number="159" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>&quot;Adult families&quot; shall mean families comprised of adults and no children under the age of 18;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-158" number="160" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>&quot;Children&quot; shall mean individuals under the age of 18;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-159" number="161" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>&quot;City-administered facilities&quot; shall mean hotels, shelters and other accommodations or associated services, managed by or provided under contract or similar agreement with any city agency, provided to individuals or families who need temporary emergency housing or assistance finding or maintaining stable housing;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-160" number="162" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>&quot;DHS&quot; shall mean the department of homeless services;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-161" number="163" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>&quot;DHS-administered facilities&quot; shall mean city-administered facilities managed directly by DHS or by a provider under contract or similar agreement with DHS;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-162" number="164" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>&quot;DHS drop-in centers&quot; shall mean city-administered facilities that provide single adults with hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals and/or housing placement services, but not overnight housing;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-163" number="165" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>&quot;DHS faith-based beds&quot; shall mean city-administered facilities that provide overnight housing to individuals, are affiliated with one or more religious groups and receive client referrals through organizations under contract with DHS;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-164" number="166" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(9)<TAB tab-count="1"/>&quot;DHS safe havens&quot; shall mean city-administered facilities that provide low-threshold, harm-reduction housing to chronic street homeless individuals, who are referred to such facilities through a DHS outreach program, without the obligation of entering into other supportive and rehabilitative services in order to reduce barriers to temporary housing;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-165" number="167" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(10)<TAB tab-count="1"/>&quot;DHS stabilization beds&quot; shall mean city-administered facilities that provide a short-term housing option for a chronic street homeless individual while such individual works with his/her outreach team to locate a more permanent housing option;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-166" number="168" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(11)<TAB tab-count="1"/>&quot;DHS veterans shelters&quot; shall mean city-administered facilities that provide short-term housing for people who actively served in the United States military;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-167" number="169" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(12)<TAB tab-count="1"/>&quot;DYCD&quot; shall mean the department of youth and community development;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-168" number="170" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(13)<TAB tab-count="1"/>&quot;DYCD-administered crisis shelters&quot; shall mean city-administered facilities that provide short-term emergency housing for runaway and homeless youth and are managed by a provider under contract or similar agreement with DYCD;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-169" number="171" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(14)<TAB tab-count="1"/>&quot;DYCD-administered drop-in centers&quot; shall mean city-administered facilities that provide runaway and homeless youth and their families with services, counseling and referrals from trained youth workers;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-170" number="172" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(15)<TAB tab-count="1"/>&quot;DYCD-administered facilities&quot; shall mean city-administered facilities managed by a provider under contract or similar agreement with DYCD;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-171" number="173" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(16)<TAB tab-count="1"/>&quot;DYCD-administered transitional independent living facilities&quot; shall mean city-administered facilities that provide long-term residential services to runaway and homeless youth for up to 18 months and are managed by a provider under contract or similar agreement with DYCD;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-172" number="174" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(17)<TAB tab-count="1"/>&quot;Families with children&quot; shall mean families with children under the age of 18, couples including at least one pregnant woman, single pregnant women, or parents or grandparents with a pregnant individual;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-173" number="175" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(18)<TAB tab-count="1"/>&quot;HPD&quot; shall mean the department of housing preservation and development;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-174" number="176" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(19)<TAB tab-count="1"/>&quot;HPD-administered facilities&quot; shall mean city-administered facilities managed by a provider under contract or similar agreement with HPD;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-175" number="177" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(20)<TAB tab-count="1"/>&quot;HPD emergency facilities&quot; shall mean shelters providing emergency shelter managed by a provider under contract or similar agreement with HPD; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88468" number="178" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(21)<TAB tab-count="1"/>&quot;HPD emergency hotels&quot; shall mean hotels providing emergency shelter to individuals or families displaced from their homes managed by a provider under contract or similar agreement with HPD;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-176" number="179" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(22)<TAB tab-count="1"/>&quot;HRA&quot; shall mean the human resources administration;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-177" number="180" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(23)<TAB tab-count="1"/>&quot;HRA-administered facilities&quot; shall mean city-administered facilities managed directly by HRA or by a provider under contract or similar agreement with HRA, excluding non-emergency supportive housing;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-178" number="181" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(24)<TAB tab-count="1"/>&quot;HRA domestic violence shelters&quot; shall mean shelters for victims of domestic violence managed directly by HRA or by a provider under contract or similar agreement with HRA;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-179" number="182" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(25)<TAB tab-count="1"/>&quot;HRA HASA emergency housing&quot; shall mean single room occupancy hotels managed by a provider under contract or similar agreement with HRA to provide emergency shelter for recipients of services from the HIV/AIDS Services Administration;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-180" number="183" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(26)<TAB tab-count="1"/>&quot;HRA HASA transitional housing&quot; shall mean congregate facilities managed by a provider under contract or similar agreement with HRA to provide emergency shelter for recipients of services from the HIV/AIDS Services Administration; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-181" number="184" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(27)<TAB tab-count="1"/>&quot;Unduplicated&quot; shall mean counted only once within the reporting period.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-182" number="185" version="4">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Reports of citywide utilization data. The mayor&apos;s office of operations shall create a portal on the NYCStat page of the city&apos;s website, or any successor pages of such website that are substantially similar in form and function, in order to publish citywide data regarding the utilization of city-administered facilities. Commencing on November 1, 2011, and no later than the first day of each month thereafter, the mayor&apos;s office of operations shall for each month, calendar year and fiscal year publish via such portal the:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-183" number="186" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>average daily overnight census for each of the following categories: A. DHS drop-in centers, disaggregated by single men, single women and total single adults; and&#160; B. DHS faith-based facilities, disaggregated by single men, single women and total single adults.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-184" number="187" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>average daily overnight census; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-185" number="188" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>number of unduplicated persons or families utilizing city-administered facilities for each of the following categories:&#160; C. all DHS-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; D. DHS safe havens, disaggregated by single men, single women and total single adults;&#160; E. DHS stabilization beds, disaggregated by single men, single women and total single adults;&#160; F. DHS veterans shelters, disaggregated by single men, single women and total single adults;&#160; G. HPD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; H. HPD emergency facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; I. HPD emergency hotels, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; J. HRA-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; K. HRA domestic violence shelters, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; L. HRA HASA emergency housing, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; M. HRA HASA transitional housing, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults; and&#160; N. all city-administered facilities, excluding DYCD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-186" number="189" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>average monthly utilization rates; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-187" number="190" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>number of unduplicated persons or families utilizing city-administered facilities for each of the following categories:&#160; A. DYCD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; B. DYCD-administered crisis shelters, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;&#160; C. DYCD- administered drop-in centers, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults; and&#160; D. DYCD-administered transitional independent living facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-188" number="191" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>the number of individuals who are on wait-lists for DYCD-administered facilities, to the extent such wait-lists exist, disaggregated by:&#160; A. type of DYCD-administered facility; and&#160; B. families with children, adult families, total families, single men, single women, and total single adults.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-189" number="192" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>the average length of stay disaggregated by:&#160; A. families with children, adult families, total families, single men, single women, and total single adults;&#160; B. type of DHS-administered facility, excluding DHS drop-in centers and DHS faith-based beds;&#160; C. type of DYCD-administered facility, excluding DYCD-administered drop-in centers;&#160; D. type of HPD-administered facility; and&#160; E. type of HRA-administered facility.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-190" number="193" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>the total number of facilities, disaggregated by DHS-administered facilities and facilities not administered by DHS.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-191" number="194" version="4">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Application and entrance data. Commencing on November 1, 2011, and no later than the first day of each month thereafter, the mayor&apos;s office of operations shall for each month, calendar year and fiscal year publish in the same location on the NYCStat website as the data posted pursuant to subdivision b of this section, the following data for those seeking admission and entrance to DHS-administered facilities: </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-192" number="195" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the total number of:&#160; A. applications;&#160; B. unduplicated applicants;&#160; C. applicants found eligible for shelter;&#160; D. entrants to DHS administered facilities; and&#160; E. unduplicated entrants to DHS-administered facilities.&#160; The data required by subparagraphs A, B, C, D and E of this paragraph shall be disaggregated by families with children, adult families, total families, single men, single women, and total single adults;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-193" number="196" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the number of families with children found eligible for city-administered facilities;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-194" number="197" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the percentage of eligible families with children who submitted one application;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-195" number="198" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the percentage of eligible families with children who submitted two applications;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-196" number="199" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the percentage of eligible families with children who submitted three applications;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-197" number="200" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>the percentage of eligible families with children who submitted four applications;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-198" number="201" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>the percentage of eligible families with children who submitted five applications;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-199" number="202" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>the percentage of eligible families with children who submitted six applications or more;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-200" number="203" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(9)<TAB tab-count="1"/>the number of adult families found eligible for city-administered facilities;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-201" number="204" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(10)<TAB tab-count="1"/>the percentage of eligible adult families who submitted one application; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88469" number="205" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(11)<TAB tab-count="1"/>the percentage of eligible adult families who submitted two applications;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-202" number="206" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(12)<TAB tab-count="1"/>the percentage of eligible adult families who submitted three applications;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-203" number="207" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(13)<TAB tab-count="1"/>the percentage of eligible adult families who submitted four applications;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-204" number="208" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(14)<TAB tab-count="1"/>the percentage of eligible adult families who submitted five applications; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-205" number="209" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(15)<TAB tab-count="1"/>the percentage of eligible adult families who submitted six applications or more.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-206" number="210" version="4">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The data required to be published in subdivisions b and c above shall be published electronically on the portal specified in subdivision b in a commonly available non-proprietary database format that is suitable for analysis. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-207" number="211" version="4">
+										<HEADING>§ 3-113* Posting of executive orders and memoranda of understanding on the city&apos;s website. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-113*" name="T03C001_3-113*"/>§ 3-113* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Posting of executive orders and memoranda of understanding on the city&apos;s website. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-209" number="212" version="149">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>All mayoral executive orders issued on or after January 1, 1974 shall be posted on the city&apos;s website. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-210" number="213" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>All mayoral executive orders issued on or after July 1, 2011 shall be provided to the council and posted on the city&apos;s website within five business days from the date of execution.&#160; </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-212" number="214" version="149">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>(1)<TAB tab-count="1"/>All memoranda of understanding or similar agreements entered into between city agencies that materially affect the rights of or procedures available to the public and could not be withheld from disclosure under article six of the public officers law shall be posted on the city&apos;s website within thirty days after taking effect and thereafter during the period that they are in effect, unless their disclosure would impair law enforcement or emergency response operations.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-213" number="215" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>All memoranda of understanding or similar agreements entered into between city agencies and non-city governmental agencies that materially affect the rights of or procedures available to the public and could not be withheld from disclosure under article six of the public officers law shall be posted on the city&apos;s website within thirty days after taking effect and thereafter during the period that they are in effect, unless their disclosure would impair the ability of the city to enter into such memoranda or agreements with such non-city agencies or impair law enforcement or emergency response operations.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-214" number="216" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The posting requirements set forth in this subdivision shall not apply if posting could reasonably result in material adverse consequences for city agency operations.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-215" number="217" version="4">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Where the length of a memorandum of understanding or similar agreement is excessive, an agency may comply with this subdivision by posting an excerpt and a brief summary of such memorandum or agreement on the city&apos;s website, provided that the full version of such memorandum of understanding or similar agreement shall be made available upon request at no charge.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-216" number="218" version="4">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The documents posted in accordance with this section shall be made available to the public on the city&apos;s website at no charge.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-217" number="219" version="4">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>This section shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this section shall not result in the invalidation of any mayoral executive order, memorandum of understanding or similar agreement, or action taken pursuant to such order or memorandum of understanding or similar agreement. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-218" number="220" version="4">
+										<HEADING>§ 3-114 Agency liaisons. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-114" name="T03C001_3-114"/>§ 3-114 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Agency liaisons. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-219" number="221" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall ensure that each relevant agency designates an employee or employees to serve as agency liaison(s) to such agency&apos;s regulated community or communities, including but not limited to relevant chambers of commerce and industry groups. Each liaison shall report to the chief business operations officer, or other representative of the office of the mayor designated by the mayor. Each liaison shall, to the extent practicable, meet regularly with such liaison&apos;s agency&apos;s regulated community or communities. For purposes of this subdivision, relevant agencies shall include the department of buildings, the department of consumer affairs, the department of health and mental hygiene, the department of environmental protection, the department of sanitation, and the fire department.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-220" number="222" version="4">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than July 1, 2013, and no later than every July 1 thereafter, the chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall provide to the mayor and the speaker of the council a listing of the name and contact information of designated agency liaisons. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-221" number="223" version="4">
+										<HEADING>§ 3-115 New York City Identity Card. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-115" name="T03C001_3-115"/>§ 3-115 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">New York City Identity Card. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-222" number="224" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Definitions:&#160; &quot;Administering Agency&quot; shall mean the agency that the mayor designates to administer the New York city identity card program.&#160; &quot;New York city identity card&quot; shall mean an identification card issued by the city of New York pursuant to subdivision b of this section.&#160; &quot;Resident&quot; shall mean person who can establish that he or she is a current resident of the city of New York pursuant to paragraph two of subdivision d of this section.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-223" number="225" version="4">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>New York city identity card program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-224" number="226" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The mayor shall designate an agency to administer the New York city identity card program. The administering agency shall promulgate all rules necessary to effectuate the purposes of this subchapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-225" number="227" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The administering agency shall designate access sites, including at least one site located within each of the five boroughs of the city of New York, where applications for such card shall be made available for pick-up and submission. The administering agency shall also make applications available online.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-226" number="228" version="4">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Issuance of New York city identity cards.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-227" number="229" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The New York city identity card shall display, at a minimum, the cardholder&apos;s photograph, name, date of birth, address, and an expiration date, provided that the administering agency may by rule establish procedures to protect the addresses of victims of domestic violence or alternate requirements for applicants who lack a permanent address. Such card shall also, at the cardholder&apos;s option, display the cardholder&apos;s self-designated gender. Such identification card shall be designed in a manner to deter fraud.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-228" number="230" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The New York city identity card shall be available to any resident of the city of New York, provided that such resident is able to meet the requirements for establishing his or her identity and residency set forth in subdivision d of this section and rules adopted by the administering agency pursuant to this section, including rules establishing a minimum age requirement for eligibility for the city identity card and any restrictions the administering agency deems appropriate for the protection of minors.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-229" number="231" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The administering agency may establish a reasonable fee for applications for a New York city identity card, and if such a fee is established, shall adopt rules permitting residents who cannot afford to pay such fee to receive a full or partial waiver.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-230" number="232" version="4">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>New York city identity card eligibility.&#160; In order to obtain a New York city identity card an applicant must establish proof of identity and proof of residency within the city as follows:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-231" number="233" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Proof of identity. In order to establish identity, an applicant shall be required to produce one or more of the following documents:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-232" number="234" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>a U.S. or foreign passport;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-233" number="235" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a U.S. state driver&apos;s license;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-234" number="236" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>a U.S. state identification card;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-235" number="237" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>a U.S. permanent resident card;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-236" number="238" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(v)<TAB tab-count="1"/>a consular identification card;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-237" number="239" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>a photo identification card with name, address, date of birth, and expiration date issued by another country to its citizens or nationals as an alternative to a passport for re-entry to the issuing country;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-238" number="240" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>a certified copy of U.S. or foreign birth certificate;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-239" number="241" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>a Social Security card;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-240" number="242" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>a national identification card with photo, name, address, date of birth, and expiration date;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-241" number="243" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(x)<TAB tab-count="1"/>a foreign driver&apos;s license;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-242" number="244" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xi)<TAB tab-count="1"/>a U.S. or foreign military identification card;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-243" number="245" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xii)<TAB tab-count="1"/>a current visa issued by a government agency;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-244" number="246" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xiii)<TAB tab-count="1"/>a U.S. individual taxpayer identification number (ITIN) authorization letter;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245" number="247" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xiv)<TAB tab-count="1"/>an electronic benefit transfer (EBT) card; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-246" number="248" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xv)<TAB tab-count="1"/>any other documentation that the administering agency deems acceptable.&#160; The administering agency may by rule determine the weight to be given to each type of document provided in this paragraph, and require that an applicant produce more than one document to establish identity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-247" number="249" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Proof of residency. In order to establish residency, an applicant shall be required to produce one or more of the following items each of which must show the applicant&apos;s name and residential address located within the city and must be dated no more than sixty days prior to the date such document is presented, except as otherwise indicated in this paragraph:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-248" number="250" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>a utility bill;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-249" number="251" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>a current residential property lease;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-250" number="252" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>a local property tax statement dated within one year of the date it is submitted;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-251" number="253" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>a local real property mortgage payment receipt;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-252" number="254" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(v)<TAB tab-count="1"/>a bank account statement;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-253" number="255" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>proof that the applicant has a minor child currently enrolled in a school located within the city;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-254" number="256" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>an employment pay stub;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-255" number="257" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>a jury summons or court order issued by a federal or state court;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-256" number="258" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>a federal or state income tax or refund statement dated within one year of the date it is submitted;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-257" number="259" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(x)<TAB tab-count="1"/>an insurance bill (homeowner, renter, health, life, or automobile insurance);</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-258" number="260" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xi)<TAB tab-count="1"/>written verification issued by a homeless shelter that receives city funding confirming at least fifteen days residency;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-259" number="261" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xii)<TAB tab-count="1"/>written verification issued by a hospital, health clinic or social services agency located within the city of New York confirming at least fifteen days residency; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-260" number="262" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xiii)<TAB tab-count="1"/>Any other documentation that the administering agency deems acceptable.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-261" number="263" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(xiv)<TAB tab-count="1"/>The administering agency may by rule determine the weight to be given to each type of document provided in this paragraph, and require that an applicant produce more than one document to establish residency. The administering agency shall by rule create alternative methods by which individuals who are homeless can establish residency in the city notwithstanding the lack of fixed address.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-262" number="264" version="4">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Confidentiality of New York city identity card eligibility information.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-263" number="265" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Once every quarter the city shall destroy copies of records provided by applicants to prove identity or residency for a New York city identity card that have been retained more than two years, except where such records are required by law to be preserved as evidence for purposes of litigation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-264" number="266" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>On or before December 31, 2016, the administering agency shall review data collected in the report described in subdivision h of this section and make a determination regarding the continuing need to retain records pursuant to paragraph one of this subdivision in order to effectively administer the New York city identity card program and shall make any appropriate modifications to the policy for retention of records related to the New York city identity card program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-265" number="267" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>In the event that: (i) the administering agency fails to make a determination on or before December 31, 2016 pursuant to paragraph (2) of this subdivision, or (ii) the administering agency determines that records retention is no longer necessary, then the city shall not retain originals or copies of records provided by an applicant to prove identity or residency for a New York city identity card for longer than the time needed to review the application, and any such records in the city&apos;s possession prior to such date shall be destroyed on or before December 31, 2016 or, in the case of an application pending on such date, as soon as practicable after a final determination has been made regarding the application. Nothing in this paragraph shall be construed to prevent the city from retaining records where such records are required by law to be preserved as evidence for purposes of litigation.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-266" number="268" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>To the maximum extent allowed by applicable federal and state law, information collected about applicants for the card shall be treated as confidential and may only be disclosed if:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-267" number="269" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Authorized in writing by the individual to whom such information pertains, or if such individual is a minor or is otherwise not legally competent, by such individual&apos;s parent or legal guardian;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-268" number="270" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>So ordered by a court of competent jurisdiction;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-269" number="271" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>To a requesting city agency for the limited purpose of administering the New York city identity card program or determining or facilitating the applicant&apos;s eligibility for additional benefits, services, and care, provided that such disclosure is made in accordance with all applicable federal and state privacy laws and regulations, and subject to the further requirement that such information shall not be redisclosed to any other governmental agency or entity, or third party; or</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-270" number="272" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>To a law enforcement agency that serves the administering agency a judicial subpoena or judicial warrant.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-271" number="273" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The city shall not indicate on the application forms used to apply for a New York city identity card the type of records provided by an applicant to establish residency or identity.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-272" number="274" version="4">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>Access to services.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-273" number="275" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>All city agencies shall accept such card as proof of identity and residency for access to city services unless (i) such acceptance is prohibited by federal or state law, (ii) additional documentation is required to obtain the benefits of a federal or state program, or (iii) the agency has reasonable grounds to believe that the card is counterfeit, altered, or improperly issued, or the individual presenting the card is not the individual to whom the card was issued.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-274" number="276" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The city shall seek to encourage eligible persons to apply for the card and expand the benefits associated with the card, including, at a minimum, by promoting acceptance of the card by banks and other public and private institutions.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-275" number="277" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>City agencies shall not require the possession of a New York city identity card where identification is not already required to obtain city services, provided, however that agencies may require the possession of a New York city identity card to obtain benefits or privileges offered exclusively to those who possess a New York city identity card as an incentive to apply for a New York city identity card.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-276" number="278" version="4">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>Language assistance services.&#160; The administering agency, in consultation with the mayor&apos;s office of immigrant affairs, shall identify and implement measures, including but not limited to staff training, community outreach, and language assistance tools, to address the needs of limited English proficient individuals in the administration of the New York city identity card program.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-277" number="279" version="4">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>Reporting.&#160; The administering agency shall prepare and submit to the mayor and the speaker of the city council a report on the New York city identity card program that includes the following information:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-278" number="280" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>the number of applications received by the city for the New York city identity card disaggregated by applicant borough of residency;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-279" number="281" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the number of New York city identity cards issued;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-280" number="282" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the number of New York city identity cards issued to minors;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-281" number="283" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>the number of requests made by city agencies for information collected about applicants for the New York city identity card disaggregated by requesting agency;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-282" number="284" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>the number of times the administering agency shared documents submitted by applicants to establish eligibility for the New York city identity card with other city agencies disaggregated by agency;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-283" number="285" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>the number of denials made to requesting agencies for information collected about applicants for the New York city identity card;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-284" number="286" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(7)<TAB tab-count="1"/>the number of New York city identity card applicants whose information was disclosed to law enforcement, disaggregated by whether such disclosure was pursuant to a judicial warrant or judicial subpoena;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-285" number="287" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(8)<TAB tab-count="1"/>the number of occurrences of fraud or other criminal activity related to issuance of the New York city identity card;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-286" number="288" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(9)<TAB tab-count="1"/>the city&apos;s efforts to conduct outreach to prospective applicants relating to the New York city identity card program;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-287" number="289" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(10)<TAB tab-count="1"/>the city&apos;s efforts to promote acceptance of the New York city identity card by banks and other public and private institutions;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-288" number="290" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(11)<TAB tab-count="1"/>the types of services, other than city services, for which the New York city identity card is permitted as acceptable proof of identity and residency; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-289" number="291" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(12)<TAB tab-count="1"/>any other metric the administering agency deems appropriate, including but not limited to additional measures of fraudulent or other criminal activity related to the New York city identity card program.&#160; Such report shall be submitted on March 31, 2015 and every three months thereafter. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-290" number="292" version="4">
+										<HEADING>§ 3-116 Veterans receiving certain city services. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-116" name="T03C001_3-116"/>§ 3-116 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Veterans receiving certain city services. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-291" number="293" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purposes of this section, the following terms shall have the following meanings:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-292" number="294" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>&quot;Fee-exempt mobile food vending license&quot; means any license as required by section 17-307 of this code for which the annual fee is waived pursuant to subdivision e of section 17-308 of this code;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-293" number="295" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>&quot;Food vending permit&quot; means any permit as required by section 17-307 of this code;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-294" number="296" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(3)<TAB tab-count="1"/>&quot;General vending license&quot; means a license as required by section 20-453 of this code;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-295" number="297" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(4)<TAB tab-count="1"/>&quot;HUD-VASH voucher&quot; means any voucher funded by the United States department of housing and urban development and United States department of veterans affairs supportive housing program;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-296" number="298" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(5)<TAB tab-count="1"/>&quot;Mitchell-Lama housing&quot; means any housing development organized pursuant to article two of the private housing finance law that is supervised by the department of housing preservation and development;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-297" number="299" version="150">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(6)<TAB tab-count="1"/>&quot;Veteran&quot; means a person who has served in the active military service of the United States and who has been released from such service otherwise than by dishonorable discharge.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-298" number="300" version="4">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The mayor&apos;s office of operations shall report in writing to the director of the office of veterans&apos; affairs, the veterans&apos; advisory board, and the council the following data for the prior calendar year, to the extent practicable, disaggregated by borough: (1) the total number of Mitchell-Lama housing applications received from veterans or their surviving spouses who have identified themselves as the head of household on such applications; (2) the total number of Mitchell-Lama housing applications approved by the department of housing preservation and development for veterans or their surviving spouses who have identified themselves as the head of household on such application; (3) the total number of fee-exempt mobile food vending licenses and food vending permits issued by the department of health and mental hygiene to veterans, (4) the number of general vending licenses issued by the department of consumer affairs to veterans; (5) the total number of veterans who submitted an application to the department of consumer affairs for a general vending license; (6) the total number of veterans residing in the city who utilized a HUD-VASH voucher; and (7) the total number of civil service examination applications received by the department of citywide administrative services for which the applicant claimed a veterans credit as provided for in section 85 of the civil service law.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-299" number="301" version="148">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Such data may be included as part of the management report provided for in section 12 of the charter, or may be issued as an independent report of the mayor&apos;s office of operations, with such independent report being due no later than October 15th of each year. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-88421" number="302" version="149">
+										<HEADING>§ 3-117 Annual reporting on bail and the criminal justice system. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-117" name="T03C001_3-117"/>§ 3-117 Annual reporting on bail and the criminal justice system. </PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-88422" number="303" version="149">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Within 90 days of the beginning of each reporting period, the office of criminal justice shall post on its website a report regarding bail and the criminal justice system for the preceding reporting period. The reporting period for paragraphs 1, 3, 14, and 15 of this subdivision is quarterly, the reporting period for paragraphs 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, and 16 is semi-annually, and the reporting period for paragraphs 17 through 33 is annually. For the purposes of this subdivision, any inmate incarcerated on multiple charges shall be deemed to be incarcerated only on the most serious charge, a violent felony shall be deemed to be more serious than a non-violent felony of the same class, any inmate incarcerated on multiple charges of the same severity shall be deemed to be held on each charge, any inmate incarcerated on multiple bail amounts shall be deemed to be held only on the highest bail amount, any inmate held on pending criminal charges who has a parole hold shall be deemed to be held only on the parole hold, any inmate held on pending criminal charges who has any other hold shall be deemed to be held only on the pending criminal charges, and any inmate incarcerated on multiple cases in which sentence has been imposed on at least one of such cases shall be deemed to be sentenced. Such report shall contain the following information, for the preceding reporting period or for the most recent reporting period for which such information is available, to the extent such information is available: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88423" number="304" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The average daily population of inmates in the custody of the department of correction. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88424" number="305" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The number of inmates admitted to the custody of the department of correction during the reporting period who had been sentenced to a definite sentence, the number held on pending criminal charges, and the number in any other category. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88425" number="306" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the last Friday of each calendar month of the reporting period, the percentage who had been sentenced to a definite sentence, the percentage held on pending criminal charges, and the percentage in any other category. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88426" number="307" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the last Friday of each calendar month of the reporting period held on pending criminal charges, the percentage who were remanded without bail. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88427" number="308" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The number of inmates in the custody of the department of correction who were sentenced to a definite sentence during the reporting period of the following length: (a) 1-15 days; (b) 16-30 days; (c) 31-90 days; (d) 91-180 days; or (e) more than 180 days. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88428" number="309" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>Of the number inmates in the custody of the department of correction on the last Friday of each calendar month of the reporting period who were sentenced to a definite sentence, the percentage of inmates whose sentences were of the following lengths: (a) 1-15 days; (b) 16-30 days; (c) 31-90 days; (d) 91-180 days; or (e) more than 180 days. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88429" number="310" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>The number of inmates admitted to the custody of the department of correction during the reporting period on pending criminal charges who were charged with offenses of the following severity: (a) class A felonies; (b) class B or C felonies; (c) class D or E felonies; (d) misdemeanors; or (e) non-criminal charges. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88430" number="311" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the last Friday of each calendar month of the reporting period held on pending criminal charges, the percentage charged with offenses of the following severity: (a) class A felonies; (b) class B or C felonies; (c) class D or E felonies; (d) misdemeanors; or (e) non-criminal charges. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88431" number="312" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>The number of inmates admitted to the custody of the department of correction during the reporting period on pending criminal charges who were charged with offenses of the following severity: (a) class A felonies disaggregated by offense; (b) violent felonies as defined in section 70.02 of the penal law; (c) non-violent felonies as defined in section 70.02 of the penal law; (d) misdemeanors; or (e) non-criminal charges. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88432" number="313" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the last Friday of each calendar month of the reporting period held on pending criminal charges, the percentage charged with offenses of the following severity: (a) class A felonies disaggregated by offense; (b) violent felonies as defined in section 70.02 of the penal law; (c) non-violent felonies as defined in section 70.02 of the penal law; (d) misdemeanors; or (e) non-criminal charges. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88433" number="314" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>11.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the last Friday of each calendar month of the reporting period held on pending criminal charges, the percentage charged with offenses of the following type, including the attempt to commit any of such offense as defined in section 110 of the penal law:&#160; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88434" number="315" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The following crimes as defined in the New York state penal law: (i) misdemeanor larceny as defined in sections 155.25, 140.35, and 165.40, (ii) misdemeanor drug possession as defined in section 220.03, (iii) misdemeanor assault as defined in sections 120.00, 120.14, 120.15, 121.11, and 265.01, (iv) misdemeanor harassment or violation of a court order as defined in sections 215.50 and 240.30, (v) misdemeanor theft of services as defined in section 165.15, (vi) misdemeanor trespass as defined in sections 140.10 and 140.15, (vii) misdemeanor criminal mischief or graffiti as defined in sections 145.00 and 145.60, (viii) misdemeanor sexual crimes as defined in sections 130.52, 130.55, and 135.60, (ix) misdemeanor resisting arrest or obstructing governmental administration as defined in sections 205.30 and 195.05, (x) misdemeanor marijuana possession as defined in sections 221.10 and 221.40, (xi) felony vehicular assault or vehicular manslaughter as defined in sections 120.03, 120.04, 120.04-a, 120.20, 120.25, 125.12, 125.13, and 125.14, (xii) felony assault as defined in sections 120.05, 120.06, 120.07, 120.08, 120.09, 120.10, 120.11, 120.12, and 120.13, (xiii) homicide offenses as defined in sections 125.10, 125.11, 125.15, 125.20, 125.21, 125.22, 125.25, 125.26, and 125.27, (xiv) felony sexual assault as defined in sections 130.25, 130.30, 130.35, 130.40, 130.45, 130.50, 130.53, 130.65, 130.65a, 130.66, 130.67, 130.70, 130.75, 130.80, 130.90, 130.91, 130.95, and 130.96, (xv) kidnapping as defined in sections 135.10, 135.20, and 135.25, (xvi) burglary as defined in sections 140.20, 140.25, and 140.30, (xvii) arson as defined in sections 150.05, 150.10, 150.15, and 150.20, (xviii) robbery, grand larceny, and stolen property offenses as defined in sections 155.30, 155,35, 155.40, 155.42, 160.05, 160.10, 160.15, 165.45, 165.50, 165.52, and 165.54, (xix) felony violation of a court order as defined in sections 215.51 and 215.52, (xx) felony drug possession or sale as defined in sections 220.06, 220.09, 220.16, 220.18, 220.21, 220.31, 220.34, 220.39, 220.41, 220.43, and 220.44, (xxii) firearm or weapons possession as defined in sections 265.01-A, 265.01-B, 265.02, 265.03, 265.04, 265.08, 265.09, 265.11, 265.12, 265.13, 265.14, 265.16, and 265.19. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88435" number="316" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The following crimes as defined in the New York state vehicle and traffic law: (i) driving under the influence of alcohol as defined in section 1192, (ii) driving with a suspended license as defined in section 511. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88436" number="317" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The following categories of offense: (i) any violation or non-criminal offense, (ii) any misdemeanor not specifically enumerated in this paragraph, (iii) any felony not specifically enumerated in this paragraph. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88437" number="318" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>12.<TAB tab-count="1"/>The number of inmates admitted to the custody of the department of correction during the reporting period on pending criminal charges who were charged with offenses in the categories defined in subparagraphs a, b, and c of paragraph 11 of this subdivision. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88438" number="319" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>13.<TAB tab-count="1"/>The number of inmates admitted to the custody of the department of correction during the reporting period on pending criminal charges who had bail fixed in the following amounts: (a) $1; (b) $2-$500; (c) $501-$1000; (d) $1001-$2500; (e) $2501-$5000; (f) $5001-$10,000; (g) $10,001-$25,000; (h) $25,001-$50,000; (i) $50,001-$100,000; or (j) more than $100,000. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88439" number="320" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>14.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the final Friday of each calendar month of the reporting period who were held on pending criminal charges, the percentage who had bail fixed in the following amounts: (a) $1; (b) $2-$500; (c) $501-$1000; (d) $1001-$2500; (e) $2501-$5000; (f) $5001-$10,000; (g) $10,001-$25,000; (h) $25,001-$50,000; (i) $50,001-$100,000; or (j) more than $100,000. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88440" number="321" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>15.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the final day of the reporting period who were held on pending criminal charges, the percentage who had been incarcerated for the following lengths of time: (a) 1-2 days; (b) 3-5 days; (c) 6-15 days; (d) 16-30 days; (e) 31-90 days; (f) 91-180 days; (g) 180 - 365 days; or (h) more than 365 days. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88441" number="322" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>16.<TAB tab-count="1"/>The information in paragraphs 1, 5, 7, 9, 13, 15, 30, 31, 32, and 33 of this subdivision disaggregated by the borough in which the inmate’s case was pending. This data shall be listed separately and shall also be compared to the following crime rates disaggregated by borough:&#160; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88442" number="323" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The number of crimes reported per capita; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88443" number="324" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The number of class A felonies and violent felonies as defined in section 70.02 of the penal law reported per capita; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88444" number="325" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The number of arrests per capita for criminal offenses; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88445" number="326" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The number of arrests for class A felonies and violent felonies as defined in section 70.02 of the penal law per capita. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88446" number="327" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>17.<TAB tab-count="1"/>The number of cases in which bail was set at arraignment on a misdemeanor complaint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88447" number="328" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>18.<TAB tab-count="1"/>Of all cases arraigned on a misdemeanor complaint, the percentage in which bail was set. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88448" number="329" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>19.<TAB tab-count="1"/>The number of cases in which bail was set at arraignment on a felony complaint. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88449" number="330" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>20.<TAB tab-count="1"/>Of all cases arraigned on a felony complaint, the percentage in which bail was set. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88450" number="331" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>21.<TAB tab-count="1"/>The number of cases in which bail was posted during any time in which the most serious pending count was a misdemeanor and the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88451" number="332" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>22.<TAB tab-count="1"/>Of all cases in which bail was posted during any time in which the most serious pending count was a misdemeanor, the percentage in which the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88452" number="333" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>23.<TAB tab-count="1"/>The number of cases in which bail was posted during any time in which the most serious pending count was a felony and the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88453" number="334" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>24.<TAB tab-count="1"/>Of all cases in which bail was posted during any time in which the most serious pending count was a felony, the percentage in which the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88454" number="335" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>25.<TAB tab-count="1"/>The number of cases in which the defendant was released without bail during any time in which the most serious pending count was a misdemeanor and the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88455" number="336" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>26.<TAB tab-count="1"/>Of all cases in which the defendant was released without bail during any time in which the most serious pending count was a misdemeanor, the percentage in which the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88456" number="337" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>27.<TAB tab-count="1"/>The number of cases in which the defendant was released without bail during any time in which the most serious pending count was a felony and the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88457" number="338" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>28.<TAB tab-count="1"/>Of all cases in which the defendant was released without bail during any time in which the most serious pending count was a felony, the percentage in which the defendant failed to appear for at least one court appearance during the reporting period. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88458" number="339" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>29. <TAB tab-count="1"/>The number of defendants assigned supervised release at arraignment and the percentage of arraigned defendants who were assigned supervised release. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88459" number="340" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>30.<TAB tab-count="1"/>Of all criminal cases in which bail was fixed during the preceding reporting period, the percentage in which the defendant posted bail, in total and disaggregated by the following bail amounts: (a) $1; (b) $2-$500; (c) $501-$1000; (d) $1001-$2500; (e) $2501-$5000; (f) $5001-$10,000; (g) $10,001-$25,000; (h) $25,001-$50,000; (i) $50,001-$100,000; or (j) more than $100,000. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88460" number="341" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>31.<TAB tab-count="1"/>Of all cases in which the defendant was held in the custody of the department of correction on pending criminal charges for any period of time and in which a disposition was reached during the reporting period, the percentage in which the disposition was as follows: (a) conviction for a class A felony disaggregated by offense; (b) conviction for a violent felony; (c) conviction for a non-violent felony; (c) conviction for a misdemeanor; (d) conviction for a non-criminal offense; (e) charges dismissed or adjourned in contemplation of dismissal; or (f) any other disposition. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88461" number="342" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>32.<TAB tab-count="1"/>Of all cases in which the defendant was held in the custody of the department of correction on pending criminal charges during the reporting period for any period of time, the percentage in which the status of the criminal case is as follows: (a) the charges are pending and the defendant was released by posting bail; (b) the charges are pending and the defendant was released by court order; (c) the charges are pending and the defendant was not released; (d) conviction for a violent felony; (e) conviction for a non-violent felony; (f) conviction for a misdemeanor; (g) conviction for a non-criminal offense; (h) charges dismissed or adjourned in contemplation of dismissal; or (i) any other disposition. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88462" number="343" version="149">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>33.<TAB tab-count="1"/>Of the number of inmates in the custody of the department of correction on the last Friday of each calendar month who were held on pending criminal charges during the reporting period, the percentage in which the status of the criminal case on the final day of the reporting period is as follows: (a) the charges are pending and the defendant was released by posting bail; (b) the charges are pending and the defendant was released by court order; (c) the charges are pending and the defendant was not released; (d) conviction for a violent felony; (e) conviction for a non-violent felony; (f) conviction for a misdemeanor; (g) conviction for a non-criminal offense; (h) charges dismissed or adjourned in contemplation of dismissal; or (i) any other disposition. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88463" number="344" version="149">
+											<PARA>(L.L. 2015/086, 10/7/2015) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-554" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-300" number="345" version="150">
+					<HEADING>Subchapter 2: Office of Long-Term Planning and Sustainability</HEADING>
+					<PARA>Subchapter 2: Office of Long-Term Planning and Sustainability</PARA>
+				</RECORD>
+				<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-557" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-560" level-depth="5" toc-section="false">
+						<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-563" level-depth="6" toc-section="false">
+							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-566" level-depth="7" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-301" number="346" version="4">
+										<HEADING>§ 3-120 Annual city food system metrics report. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-120" name="T03C001_3-120"/>§ 3-120 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual city food system metrics report. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-302" number="347" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>No later than September first, two thousand twelve, and no later than every September first thereafter, the office of long-term planning and sustainability shall prepare and submit to the mayor and the speaker of the city council a report regarding the production, processing, distribution and consumption of food in and for the city of New York during the previous fiscal year. Such report shall include:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-303" number="348" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>the number, size in acres, county and type of production of, and annual dollar amount of city financial support received by, farms participating in the watershed agricultural program;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-304" number="349" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the total dollar amount of expenditures by the department of education on milk and other food products that are subject to the United States department of agriculture country of origin labeling requirements, disaggregated and sorted by the product and country of origin in which the essential components of such food products were grown, agriculturally produced and harvested, to the extent such information is reported to the department of education. For any such product where there are multiple countries of origin, the total dollar amount of expenditures, disaggregated by product, shall be separately listed, to the extent such information is reported to the department of education. If the country of origin of milk or fresh whole produce is the United States, for the report due no later than September first, two thousand thirteen, and in every report thereafter, and to the extent such information is reported to the department of education, such report shall include the total dollar amount of expenditures on such milk or fresh whole produce that is local or regional. For purposes of this paragraph, milk or fresh whole produce shall be considered &quot;local&quot; if grown, agriculturally produced and harvested within New York state, and shall be considered &quot;regional&quot; if such food products were grown, agriculturally produced and harvested within the states of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, Ohio, Pennsylvania, Rhode Island, Vermont, Virginia or West Virginia;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-305" number="350" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>the location, sorted by community board and size in square feet, of each community garden located on city-owned property that is registered with and licensed by the department of parks and recreation, and whether each such garden engages in food production;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-306" number="351" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>the number of food manufacturers receiving monetary benefits from the economic development corporation or industrial development agency and the annual dollar amount of such benefits per food manufacturer. For purposes of this paragraph, &quot;food manufacturer&quot; shall mean any natural person, partnership, corporation or other association that processes or fabricates food products from raw materials for commercial purposes, provided that it shall not include any establishment engaged solely in the warehousing, distribution or retail sale of products;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-307" number="352" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>the daily number of truck and rail trips to or through Hunts Point Market for the purpose of delivering food to Hunts Point Market, to the extent such information is available. For purposes of this paragraph, &quot;Hunts Point Market&quot; shall mean the food distribution center located in Hunts Point in the borough of the Bronx, and shall include the meat, fish and produce markets operating at such location;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-308" number="353" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>6.<TAB tab-count="1"/>for the report due no later than September first, two thousand thirteen, and in every fifth report thereafter, the amount of grocery store space per capita, sorted by community board, and the number of grocery stores that opened during the past five calendar years, sorted by community board, to the extent such information is available. The office of long-term planning and sustainability shall request such information, as necessary, from the New York state department of agriculture and markets;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-309" number="354" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>7.<TAB tab-count="1"/>the number, community board, and number of employees, of grocery stores receiving financial benefits under the food retail expansion to support health program;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-310" number="355" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>8.<TAB tab-count="1"/>the number of establishments participating in the healthy bodega initiative administered by the department of health and mental hygiene, sorted by borough;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-311" number="356" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>9.<TAB tab-count="1"/>the number of job training programs administered by the department of small businesses services or the workforce investment board to aid individuals seeking work in food manufacturing, food supply, food service or related industries, sorted by borough;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-312" number="357" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>10.<TAB tab-count="1"/>the total number of meals served by city agencies or their contractors, including but not limited to meals served in public schools, hospitals, senior centers, correctional facilities, and homeless shelters, and not including food sold in vending machines or by a concessionaire, sorted by agency;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-313" number="358" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>11.<TAB tab-count="1"/>for each required city agency food standard developed pursuant to executive order number one hundred twenty-two, dated September nineteenth, two thousand eight, the total number of programs or other relevant entities that purchase, prepare or serve meals, not including food sold in vending machines or by a concessionaire, that are in full compliance with each such standard and the total number that are not in full compliance with each such standard, sorted by agency;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-314" number="359" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>12.<TAB tab-count="1"/>the number of and amount of annual revenue earned from vending machines located in facilities operated by the department of education;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-315" number="360" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>13.<TAB tab-count="1"/>the number of persons sixty-five years or older receiving benefits through the supplemental nutritional assistance program (&quot;SNAP&quot; ) administered by the United States department of agriculture;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-316" number="361" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>14.<TAB tab-count="1"/>the number and description of, and dollar amount spent by, the human resources administration on SNAP outreach programs;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-317" number="362" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>15.<TAB tab-count="1"/>the number and description of, and dollar amount spent on, nutrition education programs administered by the human resources administration and department of health and mental hygiene;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-318" number="363" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>16.<TAB tab-count="1"/>the number of salad bars in public schools and in hospitals operated by the health and hospitals corporation, respectively, sorted by borough;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-319" number="364" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>17.<TAB tab-count="1"/>the total amount expended by the department of citywide administrative services to purchase water other than tap water;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-320" number="365" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>18.<TAB tab-count="1"/>information concerning the green cart initiative administered by the department of health and mental hygiene, including the number of applications for permits, the number of permits issued, the number of persons on the waiting list, the number of violations issued to green carts, the location of such carts when such violations were issued and, to the extent such information is available, the number of permit holders who accept electronic benefit transfer, sorted by borough;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-321" number="366" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>19.<TAB tab-count="1"/>the number of vendors at greenmarkets, farmers&apos; markets and similar markets operated by the council on the environment of New York city or any successor entity, and the average number of vendors at such markets, sorted by borough; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-322" number="367" version="183">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>20.<TAB tab-count="1"/>for the report due no later than September first, two thousand fourteen, and in every report thereafter, contents of the report on food security as required by subdivision j of section 20 of the charter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-323" number="368" version="4">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>Each annual report prepared pursuant to subdivision a of this section shall be made available to the public at no charge on a website maintained by or on behalf of the city of New York. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-324" number="369" version="4">
+										<HEADING>§ 3-121 Clean waterfront plan. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-121" name="T03C001_3-121"/>§ 3-121 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Clean waterfront plan. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-325" number="370" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For purposes of this section, the following terms shall have the following meanings:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-326" number="371" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>&quot;Director&quot; shall mean the director of long-term planning and sustainability;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-327" number="372" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>&quot;Office&quot; shall mean the office of long-term planning and sustainability; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-328" number="373" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>&quot;Waterfront dumping&quot; shall mean any violation of subdivision a of section 16-119 of this code that occurs in or upon any wharf, pier, dock, bulkhead, slip or waterway or other area, whether publicly or privately owned, that is adjacent to any wharf, pier, dock, bulkhead, slip or waterway, and any violation of section 22-112 of this code.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-329" number="374" version="4">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The director, in conjunction with the commissioner of environmental protection, the commissioner of sanitation, the commissioner of small business services and, where necessary and practicable, the police commissioner, and the heads of such other agencies as the mayor may designate, shall prepare a clean waterfront plan to prevent waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads. The plan shall include, but need not be limited to, the following:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-330" number="375" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>a determination as to whether the promulgation of rules is necessary to implement the clean waterfront plan and a description of the nature of those rules, if any;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-331" number="376" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>the creation of an accessible and centralized source of information consisting of laws, rules and regulations that relate to the clean waterfront plan;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-332" number="377" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>a protocol to coordinate with federal, state, and multi-state agencies and authorities that have jurisdiction over the port of New York and waterways in the city of New York in relation to promoting a clean waterfront;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-333" number="378" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>a protocol to coordinate the enforcement of all applicable laws, rules and regulations that relate to the clean waterfront plan and the promotion of a clean waterfront by the office, the department of environmental protection, the department of sanitation, the department of small business services and, where necessary and practicable, the police department, and such other agencies as the mayor may designate, that would include, but need not be limited to, a survey to identify sites where waterfront dumping occurs or is likely to occur, periodic inspections of waterfront properties, and the posting of signs to discourage waterfront dumping, littering and the abandonment of vehicles, vessels and crafts on waterfront property; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-334" number="379" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>a public education and outreach program to increase awareness about the clean waterfront plan.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-335" number="380" version="4">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The director shall submit the clean waterfront plan to the mayor and the speaker of the city council on or before January 1, 2013 and shall post such plan on the city website.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-336" number="381" version="182">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>1. <TAB tab-count="1"/>The director shall submit a report to the mayor and the speaker of the city council on or before April 1, 2014 and on or before April 1 of every other year thereafter, which shall include, but need not be limited to, the following information for the immediately preceding two calendar years:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-337" number="382" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the number of complaints received by the city concerning conduct that constitutes waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-338" number="383" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the number of summonses and notices of violation, respectively, issued by each agency for violations of any law, rule or regulation relating to waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-339" number="384" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the total amount of civil penalties imposed for such notices of violation by the environmental control board;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-340" number="385" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>any changes made to the clean waterfront plan;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-341" number="386" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(v)<TAB tab-count="1"/>a summary of any rules promulgated to implement the clean waterfront plan; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-342" number="387" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>recommendations for appropriate legislation and improved enforcement with respect to the clean waterfront plan.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-343" number="388" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>In the report issued on or before April 1, 2018 the director shall make a recommendation on the necessity of future reports issued pursuant to this subdivision.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-344" number="389" version="4">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>Three months prior to the submission of the plan or a report as required by subdivisions c and d of this section, respectively, the director shall make a draft of such plan or report available to the public for a sixty-day comment period. All comments received during such period shall be included as an appendix to the plan or report. The director shall provide notice of such opportunity to comment to any property owners and/or tenant organizations, manufacturing and commercial trade groups, community-based organizations, environmental advocacy organizations and members of the general public that have formally requested to be notified of such opportunity or other individuals or organizations that the director deems appropriate. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-345" number="390" version="4">
+										<HEADING>§ 3-122 New York city panel on climate change. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-122" name="T03C001_3-122"/>§ 3-122 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">New York city panel on climate change. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-346" number="391" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purposes of this section and section 3-123 of this subchapter, the following terms shall mean:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-347" number="392" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>&quot;Vulnerable populations&quot; means persons or communities at increased risk of harm as a direct or indirect consequence of climate change based on one or more of the following risk factors: (i) proximity to disproportionally impacted areas; (ii) age, including senior citizen or minor status; (iii) income level; (iv) disability; (v) chronic or mental illness; and (vi) language.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-348" number="393" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>&quot;Public health&quot; means impacts on physical health, mental health and social well-being and public or private services that treat and prevent disease, prolong life and promote health.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-349" number="394" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>&quot;Natural systems&quot; means ecosystems and assets that provide ecologic benefits, including but not limited to waterbodies, trees, wetlands and parks.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-350" number="395" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>&quot;Critical infrastructure&quot; means systems and assets, with the exception of residential and commercial buildings, that support vital city activities and for which the diminished functioning or destruction of such systems and assets would have a debilitating impact on public safety and/or economic security.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-351" number="396" version="4">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>There shall be a New York city panel on climate change whose members shall serve without compensation from the city. Members shall include, but not be limited to, climate change and climate impact scientists who shall be appointed by, and serve at the pleasure of, the mayor.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-353" number="397" version="182">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The panel shall meet at least twice a year for the purpose of (i) reviewing the most recent scientific data related to climate change and its potential impacts on the city&apos;s communities, vulnerable populations, public health, natural systems, critical infrastructure, buildings and economy; and (ii) advising the office of long-term planning and sustainability and the New York city climate change adaptation task force established pursuant to section 3-123 of this subchapter.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-354" number="398" version="182">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The panel shall make recommendations regarding (i) the near-, intermediate and long-term quantitative and qualitative climate change projections for the city of New York within one year of the release of an assessment report by the intergovernmental panel on climate change, but not less than once every three years; and (ii) a framework for stakeholders to incorporate climate change projections into their planning processes.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-355" number="399" version="4">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The panel shall advise the office of long-term planning and sustainability on the development of a community- or borough-level communications strategy intended to ensure that the public is informed about the findings of the panel, including the creation of a summary of the climate change projections for dissemination to city residents. </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-356" number="400" version="4">
+										<HEADING>§ 3-123 New York city climate change adaptation task force. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-123" name="T03C001_3-123"/>§ 3-123 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">New York city climate change adaptation task force. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-357" number="401" version="119">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be a New York city climate change adaptation task force consisting of city, state and federal agencies and private organizations and entities responsible for developing, maintaining, operating or overseeing the city&apos;s public health, natural systems, critical infrastructure, including telecommunications, buildings and economy. The task force shall be chaired by the office of long-term planning and sustainability, and shall include, but need not be limited to, representatives from the department of buildings, the department of design and construction, department of city planning, the department of environmental protection, the department of information technology and telecommunications, the department of parks and recreation, the department of sanitation, the department of transportation, the economic development corporation, the office of emergency management, the office of management and budget, the department for the aging and the department of health and mental hygiene. Public members shall include, but need not be limited to, representatives from organizations in the health care, telecommunications, energy and transportation fields, who shall be appointed by, and serve at the pleasure of, the mayor without compensation from the city. The mayor shall invite the appropriate federal, state and local agencies and authorities to participate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-358" number="402" version="119">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The task force shall meet at least twice a year for the purposes of reviewing the climate change projections as recommended by the New York city panel on climate change pursuant to section 3-122 of this subchapter; evaluating the potential impacts to public health and the delivery of public health services to the city&apos;s communities and vulnerable populations and how such delivery may be affected by climate change; evaluating the potential impacts to the city&apos;s natural systems, critical infrastructure, including telecommunications, and buildings and how services provided by such systems, infrastructure, including telecommunications, and buildings may be affected by climate change; identifying the rules, policies and regulations governing public health, natural systems, critical infrastructure, including telecommunications, buildings and economy that may be affected by climate change; and formulating and updating coordinated strategies to address the potential impact of climate change on the city&apos;s communities, vulnerable populations, public health, natural systems, critical infrastructure, including telecommunications, buildings and economy. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-359" number="403" version="119">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Within one year of the development of recommended climate change projections pursuant to section 3-122 of this subchapter, the task force shall create an inventory of potential risks due to climate change to the city&apos;s communities, vulnerable populations, public health, natural systems, critical infrastructure, including telecommunications, buildings and economy; develop adaptation strategies to address such risks that may include design guidelines for new infrastructure, and short and long-term resiliency recommendations for existing public and private telecommunications infrastructure, including an evaluation of wireless infrastructure; and identify issues for further study. A report with recommendations shall be issued based on this information and submitted to the mayor and the city council and shall be made available to the public. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-360" number="404" version="119">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The task force shall conduct outreach to telecommunication service providers, including all telecommunication service providers with a franchise agreement with the city, and request their cooperation in obtaining information relevant to the task force’s requirements under subdivision two of this section. The report will include a description of the efforts undertaken to obtain the cooperation of infrastructure providers and the results of such efforts, including specifically whether any such providers refused to cooperate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-361" number="405" version="119">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The office of long-term planning and sustainability shall develop a community- or borough-level communications strategy intended to ensure that the public is informed about the findings of the task force, including the creation of a summary of the report for dissemination to city residents. In developing such communications strategy, the director shall consult with non-governmental and community-based organizations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-362" number="406" version="119">
+											<PARA>(Am. L.L. 2015/072, 8/10/2015) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-363" number="407" version="4">
+										<HEADING>§ 3-124 Study and report on the effects of wind on certain buildings. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-124" name="T03C001_3-124"/>§ 3-124 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Study and report on the effects of wind on certain buildings. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-364" number="408" version="4">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>The office of long-term planning and sustainability in consultation with the department of buildings shall undertake a study and submit a report to the mayor and the speaker of the city council, on the effects of wind on existing buildings, including existing buildings that are raised, and buildings that are under construction in the city of New York. Such report and accompanying recommendations shall be provided no later than two years from the effective date of the local law that added this section and shall include the following:</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-365" number="409" version="180">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>An analysis to determine the types of existing buildings that are at risk of causing falling debris, based on the age, construction classification, construction methods and materials, height, and occupancy use of such buildings;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-366" number="410" version="180">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>An analysis of the effects of wind on existing buildings that are raised, lifted, elevated or moved in order to comply with Appendix G of the New York city building code or to address flood hazard concerns;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-367" number="411" version="180">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>An analysis of the effects of wind on buildings that are under construction, including the effects of wind on buildings with incomplete fa&amp;cedil;cade assemblies, temporary installations used in construction, and construction materials that are stored on construction sites;</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-368" number="412" version="180">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>An analysis of forecasts related to potential changes in the frequency, intensity, and path of future storm events along with consideration of whether climate change may impact wind speeds; and</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-369" number="413" version="180">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>An examination of the benefits of installing and maintaining weather stations across the city, including on high-rise buildings, to better understand localized wind patterns.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-370" number="414" version="180">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The report shall include recommendations on paragraphs one through five of subdivision a of this section as well as recommendations on whether the applicable wind loads under the city&apos;s building code should be revised; whether standard wind plans for sites in various stages of construction are needed, including plans regarding equipment and temporary structures such as cranes, derricks, scaffolds, concrete formwork and sidewalk bridges; how equipment and temporary structures such as cranes, derricks, scaffolds, concrete formwork and sidewalk bridges should be designed and secured in light of wind effects; whether changes to the building code or department of buildings rules related to fa&amp;cedil;cade work filing and inspection exemptions or safety inspection requirements are necessary and what wind load requirements should be applied to existing buildings.</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-88558" number="415" version="180">
+										<HEADING>§ 3-125 Geothermal systems. </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-125" name="T03C001_3-125"/>§ 3-125 Geothermal systems. </PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-88559" number="416" version="181">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>As used in this section: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88560" number="417" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Criteria air pollutant.</CHARFORMAT> The term “criteria air pollutant” means a pollutant for which the United States environmental protection agency has set national ambient air quality standards pursuant to part 50 of title 40 of the code of federal regulations. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88561" number="418" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Geothermal system. </CHARFORMAT>The term “geothermal system” means a geothermal system as defined in section one of local law number 32 for the year 2013. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88562" number="419" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Peak demand reduction. </CHARFORMAT>The term “peak demand reduction” means a reduced demand for electricity that occurs between 2 p.m. and 6 p.m., Monday through Friday from June 1 through September 30. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88563" number="420" version="181">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than February 1, 2017, an office or agency designated by the mayor shall, in consultation with the department of buildings, the department of design and construction and other relevant agencies, develop and make publicly available online a screening tool that can be used to determine whether installation of a geothermal system may be cost-effective for a property. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88564" number="421" version="181">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>Such screening tool shall be used in the planning process for the new construction of a city-owned building and the retrofitting of an existing city-owned building’s heating and cooling system where the planning process commences on or after February 1, 2017. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88565" number="422" version="181">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Where the use of such screening tool required pursuant to subdivision c of this section indicates that installation of a geothermal system may be cost-effective, an engineering and multi-criteria analysis of the use of a geothermal system, including, where appropriate, an analysis of the option of utilizing a photovoltaic system coupled with a geothermal system, shall be conducted. As part of such engineering and multi-criteria analysis, at a minimum, the following criteria shall be used to evaluate geothermal systems and compare such systems with other heating/cooling alternatives: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88566" number="423" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Comparison of greenhouse gas emissions as a result of fuel and electricity consumption; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88567" number="424" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Comparison of impacts on criteria air pollutant concentrations; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88568" number="425" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Comparison of annual electricity consumption and impacts on peak demand reduction; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88569" number="426" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Where applicable, comparison of a potential revenue stream generated from the peak demand reduction using a dollar metric; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88570" number="427" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Comparison of fuel and power costs; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88571" number="428" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Comparison of the net present value of all alternatives considered, where such net present value shall: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88572" number="429" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Be based on a 20-year life expectancy for each proposed option, unless a particular technology has a different life expectancy as documented by the manufacturer; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88573" number="430" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Include capital costs, operations and maintenance, fuel costs, available federal, state and other non-city governmental funding assistance, and the social cost of carbon value as provided in paragraph 3 or pursuant to paragraph 4; provided that a site- or project-specific social cost of carbon value may be developed and used in lieu of the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4 if such site- or project-specific social cost of carbon value is higher than the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88574" number="431" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88575" number="432" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>The social cost of carbon value shall be as follows: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88576" number="433" version="180">
+											<PARA>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88577" number="434" version="180">
+											<PARA>
+												<TABLE>
+													<TABLEFORMAT number-of-widths="2" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+														<COLUMNFORMAT column-width="144" percentage="no"/>
+														<COLUMNFORMAT column-width="144" percentage="no"/>
+													</TABLEFORMAT>
+													<ROW>
+														<COL>
+															<PARA style-name="Small-Bold" style-name-escaped="Small-Bold" style-id="0-0-0-41704">
+																<PARAFORMAT space-before="0">Year</PARAFORMAT>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA style-name="Small-Bold" style-name-escaped="Small-Bold" style-id="0-0-0-41704">
+																<PARAFORMAT space-before="0">Dollar value per metric ton of carbon dioxide equivalent</PARAFORMAT>
+															</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">2017</PARAFORMAT>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">128</PARAFORMAT>
+															</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">2018</PARAFORMAT>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">132</PARAFORMAT>
+															</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">2019</PARAFORMAT>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">136</PARAFORMAT>
+															</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">2020</PARAFORMAT>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">140</PARAFORMAT>
+															</PARA>
+														</COL>
+													</ROW>
+													<ROW>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">2021</PARAFORMAT>
+															</PARA>
+														</COL>
+														<COL>
+															<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-41703">
+																<PARAFORMAT space-before="0">142</PARAFORMAT>
+															</PARA>
+														</COL>
+													</ROW>
+												</TABLE>
+											</PARA>
+											<PARA>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88578" number="435" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88579" number="436" version="181">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>By no later than six months after the end of each fiscal year, an office or agency designated by the mayor shall submit to the speaker of the council and make publicly available online a report containing the following information for each project described in subdivision c of this section that is completed during such fiscal year: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88580" number="437" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>A brief description of such project; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88581" number="438" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The street address of such project and the community district and council district in which such project is located; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88582" number="439" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Whether installation of a geothermal system for such project was determined to be cost-effective based on the use of the screening tool described in subdivision b of this section; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88583" number="440" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Whether installation of a geothermal system was selected for the project based on the detailed engineering and multi-criteria analysis pursuant to subdivision d of this section; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88584" number="441" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>Whether a geothermal system was installed for such project and, if not, the type of system installed. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88585" number="442" version="181">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>No later than 18 months after the effective date of the local law that added this subdivision, an office or agency designated by the mayor shall, in consultation with the relevant agencies, develop and submit to the mayor and the speaker of the council recommendations relating to: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88586" number="443" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>Standards for the installation and maintenance of geothermal systems, including standards relating to assessing subsurface conditions and the design, commissioning, distribution and performance monitoring of such systems; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88587" number="444" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>Required qualifications for persons who will design or install such systems; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88588" number="445" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>Maintaining a publicly available registry of such persons; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88589" number="446" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>Informing property owners and installers of geothermal systems regarding the potential benefits of coupling a photovoltaic system installation with a geothermal system for buildings within the city; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88590" number="447" version="181">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>5.<TAB tab-count="1"/>The technical and regulatory feasibility of implementing a geothermal system for waterfront properties within the city by suspending closed loop coils or other heat exchange devices in the marine surface waters around the city. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88591" number="448" version="181">
+											<PARA>(L.L. 2016/006, 1/5/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-554" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-371" number="449" version="259">
+					<HEADING>Subchapter 3: [Repealed]</HEADING>
+					<PARA>Subchapter 3: [Repealed]</PARA>
+				</RECORD>
+				<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+					<RECORD id="0-0-0-88181" number="450" version="259">
+						<PARA style-name="EdNote" style-name-escaped="EdNote" style-id="0-0-0-19">Editor&apos;s note: former Subchapter 3, &quot;Office of Veterans&apos; Affairs,&quot; was repealed effective 4/8/2016. A new Department of Veterans&apos; Services was established as of that date. See L.L. 2015/113, 12/10/2015, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" domain="new york(admin)" destination-name="T31" destination-id="JD_T31">Title 31</LINK> herein. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+						</PARA>
+					</RECORD>
+				</LEVEL>
+				<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-557" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-560" level-depth="5" toc-section="false">
+						<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-563" level-depth="6" toc-section="false">
+							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-566" level-depth="7" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-372" number="451" version="259">
+										<HEADING>§ 3-130 [Repealed.] </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-130" name="T03C001_3-130"/>§ 3-130 [Repealed.]
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-385" number="452" version="259">
+											<PARA>(Rep. L.L. 2015/113, 12/10/2015, eff. 4/8/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-386" number="453" version="259">
+										<HEADING>§ 3-131 [Repealed.] </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-131" name="T03C001_3-131"/>§ 3-131 [Repealed.]
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-387" number="454" version="259">
+											<PARA>(Rep. L.L. 2015/113, 12/10/2015, eff. 4/8/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-388" number="455" version="259">
+										<HEADING>§ 3-132 [Repealed.] </HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-132" name="T03C001_3-132"/>§ 3-132 [Repealed.]
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-389" number="456" version="259">
+											<PARA>(Rep. L.L. 2015/113, 12/10/2015, eff. 4/8/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER> </PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-390" number="457" version="259">
+										<HEADING>§ 3-133 [Repealed.]</HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-133" name="T03C001_3-133"/>§ 3-133 [Repealed.]</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-391" number="458" version="259">
+											<PARA>(Rep. L.L. 2015/113, 12/10/2015, eff. 4/8/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">[ALP S-1]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+			<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-554" level-depth="3" toc-section="true">
+				<RECORD id="0-0-0-88204" number="459" version="95">
+					<HEADING>Subchapter 4: Office of Labor Standards</HEADING>
+					<PARA>Subchapter 4: Office of Labor Standards</PARA>
+				</RECORD>
+				<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-557" level-depth="4" toc-section="false">
+					<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-560" level-depth="5" toc-section="false">
+						<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-563" level-depth="6" toc-section="false">
+							<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-566" level-depth="7" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-569" level-depth="8" toc-section="true">
+									<RECORD id="0-0-0-88206" number="460" version="243">
+										<HEADING>§ 3-140 Office of Labor Standards.</HEADING>
+										<PARA>
+											<DESTINATION id="JD_T03C001_3-140" name="T03C001_3-140"/>§ 3-140 Office of Labor Standards.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-88209" number="461" version="96">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>For purposes of this section, &quot;director&quot; means the director of the office of labor standards. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88210" number="462" version="96">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than February 15, 2017, and no later than every February fifteenth thereafter, the director shall post on the office&apos;s website the following information for the prior calendar year regarding enforcement of chapter 9 of title 20 of the code: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88211" number="463" version="96">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/> the number of complaints against employers filed with the office; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88212" number="464" version="96">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>ii.<TAB tab-count="1"/>the number of investigations conducted by the director; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88213" number="465" version="96">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iii.<TAB tab-count="1"/>the results of each enforcement action undertaken by the director; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88214" number="466" version="96">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>iv.<TAB tab-count="1"/>such other information as the director may deem appropriate. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88215" number="467" version="96">
+											<PARA>(L.L. 2015/104, 11/30/2015, eff. 3/29/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-23">(ALP S-1)</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88207" number="468" version="95">
+											<PARA>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-88208" number="469" version="95">
+											<PARA>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>
