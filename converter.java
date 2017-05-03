@@ -41,7 +41,7 @@ public class converter {
 	private final static int CHAPTER_SUBJECT = 10;	//HEADING, substring of everything beyond the ': '
 	
 	//LEVEL 3 : SUBCHAPTER
-	private final static int HAS_SUBCHAPTER = 11;
+	private final static int SUBCHAPTER_NUM = 11;
 	
 	//LEVEL 4 : APPENDIX
 	private final static int HAS_APPENDIX = 12;
@@ -71,6 +71,8 @@ public class converter {
     public static void main(String[] args) throws Exception {
         //retrieveAndReadXml(); //test: read the first file and extract data.
         read();
+        copy();
+        //format();
     }
     
     /**
@@ -106,7 +108,7 @@ public class converter {
     	for (File file : files){	
     		System.out.println("Reading " + file.getAbsolutePath());
     		Document doc = dBuilder.parse(file);
-    		
+    		/*
 	    	NodeList title = doc.getElementsByTagName("LEVEL");
 	    	for (int a = 0; a < title.getLength(); a++){
 	    		Node home = title.item(a);
@@ -119,19 +121,44 @@ public class converter {
 	    			catch(NullPointerException e){
 	    				chapter = "NULL";
 	    			}
-	    			
-	    			NodeList para = name.getElementsByTagName("PARA");			
+	    	*/		
+	    			NodeList para = doc.getElementsByTagName("PARA");			
 	    			for (int b = 0; b < para.getLength(); b++){
+	    				Row row = sheet.createRow(rowNum++);;
 	    				Node parag = para.item(b);
 	    				if (parag.getNodeType() == Node.ELEMENT_NODE){
 	    					Element paragrapf = (Element) parag;
 	    					String requirement = paragrapf.getTextContent();
-	    				
-	    					Row row = sheet.createRow(rowNum++);;
-	    					
+	    					//TITLE
+	    					cell = row.createCell(TITLE_NUM);
+	    					if ((coalesce(requirement, "Title")).equals("Title"))
+								cell.setCellValue(requirement);
+	    					else
+	    						cell.setCellValue("");
+	    					//CHAPTER
 	    					cell = row.createCell(CHAPTER_NUM);
-			    			cell.setCellValue(chapter);
-			    			
+	    					if ((coalesce(requirement, "Chapter")).equals("Chapter"))
+	    						cell.setCellValue(requirement);
+	    					else
+	    						cell.setCellValue("");
+	    					//SUBCHAPTER
+	    					cell = row.createCell(SUBCHAPTER_NUM);
+	    					if ((coalesce(requirement, "Subchapter")).equals("Subchapter"))
+	    						cell.setCellValue(requirement);
+	    					else
+	    						cell.setCellValue("");
+	    					//SECTION
+	    					cell = row.createCell(SECTION_NUM);
+	    					if ((coalesce(requirement, "§")).equals("§"))
+	    						cell.setCellValue(requirement);
+	    					else
+	    						cell.setCellValue("");
+	    						
+	    					//Row row = sheet.createRow(rowNum++);;
+	    					
+	    					//cell = row.createCell(CHAPTER_NUM);
+			    			//cell.setCellValue(chapter);
+			    						    			
 			    			cell = row.createCell(FILE_NAME);
 			    			cell.setCellValue(file.getAbsolutePath());
 			    			
@@ -139,8 +166,8 @@ public class converter {
 			    			cell.setCellValue(requirement);
 	    				}
 	    			}
-	    		}
-	    	}
+	    		//}
+	    	//}
 	    	count++;
     	}
        	System.out.println("TOTAL: " + count);
@@ -149,8 +176,36 @@ public class converter {
         workbook.write(fileOut);
         workbook.close();
         fileOut.close();
-    	
     }
+        
+    public static String coalesce(String rem, String value) {
+	    /*
+	    for(int i = 0; i < obj.length(); i++)
+	    	if(obj.substring(i, i+1) != null && !(obj.substring(i, i+1)).equals(" ")){
+	    		//return obj.substring(i, i+1);
+	    		boolean equal = (obj.substring(i, i+1)).equals("§");
+	    		if (equal)
+	    			System.out.println("FOUND " + equal + " is: " + obj.substring(i, i+1));
+	    	}
+	    return false;
+	   */
+	   String obj = rem.trim();
+	   int len = value.length();
+	   //System.out.println(obj);
+	   if (obj.length() == 0 || obj.length() < len){
+	   		return " ";
+	   }
+	   //System.out.println("	SUBSTRING: " + obj.substring(i, i+1));
+	   return obj.substring(0, len);
+	}
+	
+	public static void copy() throws Exception{
+		Sheet sheet = workbook.getSheetAt(0);
+		//TITLE
+		for (Cell cell : sheet.getRow(TITLE_NUM)){
+			System.out.println(cell.getStringCellValue()); 		//INCOMPLETED!!!!
+		}
+	}
 
     /**
      * Initializes the POI workbook and writes the header row
@@ -219,8 +274,8 @@ public class converter {
 		
 		//LEVEL 3 : SUBCHAPTER
 		//private final static int HAS_SUBCHAPTER = 0;
-		cell = row.createCell(HAS_SUBCHAPTER);
-        cell.setCellValue("Subchapter Exists?");
+		cell = row.createCell(SUBCHAPTER_NUM);
+        cell.setCellValue("Subchapter #");
         cell.setCellStyle(style);
 		
 		//LEVEL 4 : APPENDIX
