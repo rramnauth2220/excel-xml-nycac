@@ -1,0 +1,26 @@
+001	NEW YORK CITY ADMINISTRATIVE CODE
+	Current through Local Law 2017/059, enacted March 21, 2017,and includes amendments effective through April 5, 2017. [ALP S-012]
+				"
+	Published by:
+ American Legal Publishing Corporation 
+	      	      One West Fourth Street, Third FloorCincinnati, Ohio  45202800-445-5588Fax: 513-763-3562
+					www.amlegal.com
+				"
+005 - 5809 ADMINISTRATIVE CODE OF THE CITY OF NEW YORK
+130187 - Chapter 2: Licenses
+138961 - THE NEW YORK CITY CONSTRUCTION CODES
+145874 - THE NEW YORK CITY CONSTRUCTION CODES
+148478 - THE NEW YORK CITY PLUMBING CODE
+150967 - THE NEW YORK CITY BUILDING CODE
+169015 - ARTICLE 801: Enactment and update of the New York City mechanical code
+175878 - THE NEW YORK CITY FUEL GAS CODE
+180541 - Article 1001: Enactment and update of the New York City Energy conservation code
+180575 - THE NEW YORK CITY ENERGY CODE
+182905 - NEW YORK CITY FIRE CODE
+194670 - 197743 - Hazardous Materials=mgeneral Provisions
+199506 - 204336 - CHAPTER 3: Flammable and Combustible Liquids
+204709 - ADMINISTRATIVE CODE OF THE CITY OF NEW YORK
+216694 - NEW YORK CITY FIRE CODE
+228172 - THE NEW YORK CITY FUEL GAS CODE
+230290 - THE NEW YORK CITY ENERGY CODE
+Regex for contains "NEW YORK CITY" and "CODE"
