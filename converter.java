@@ -33,11 +33,11 @@ public class converter {
 	
 	private final static int FILE_NAME = 0;
 	
-	//LEVEL 1 : TITLE	
-	//private final static int RECORD_ID = 1; 		//TITLE attribute id
-	//private final static int RECORD_NUMBER = 2;		//TITLE attribute number
-	//private final static int RECORD_VERSION = 3;	//TITLE attribute version
-	//private final static int TITLE = 4; 		//HEADING, Regex excluding alpha characters
+	//LEVEL 1 : TITLE_NUM	
+	//private final static int RECORD_ID = 1; 		//TITLE_NUM attribute id
+	//private final static int RECORD_NUMBER = 2;		//TITLE_NUM attribute number
+	//private final static int RECORD_VERSION = 3;	//TITLE_NUM attribute version
+	//private final static int TITLE_NUM = 4; 		//HEADING, Regex excluding alpha characters
 	//private final static int TITLE_SUBJECT = 5;		//HEADING, substring of everything beyond the ': '
 	private final static int TITLE = 1;
 	
@@ -94,7 +94,7 @@ public class converter {
     	initXls();
     	Sheet sheet = workbook.getSheetAt(0);
     	
-    	File origin = new File ("C:\\Users\\Shahendra\\Documents\\JCreator Pro\\MyProjects\\excel-xml-nycac\\admin_Test\\NYCAC 1321 - 1814");
+    	File origin = new File ("C:\\Users\\Shahendra\\Documents\\JCreator Pro\\MyProjects\\excel-xml-nycac\\admin_Test");
     	File[] files = origin.listFiles();
     	//Sort by number
     	Arrays.sort(files, new Comparator<File>(){
@@ -137,13 +137,23 @@ public class converter {
 			for (int b = 0; b < para.getLength(); b++){
 				Row row = sheet.createRow(rowNum++);;
 				Node parag = para.item(b);
+				/*
+				Node parag_next;
+				if (b != para.getLength() - 1) {
+					parag_next = para.item(b + 1);
+					if (parag_next.getNodeType() == Node.ELEMENT_NODE){
+						Element paragrapf2 = (Element) parag_next;
+						String requirement_next = paragraph2.getTextContent();
+					}
+				} */
 				if (parag.getNodeType() == Node.ELEMENT_NODE){
 					Element paragrapf = (Element) parag;
 					String requirement = paragrapf.getTextContent();
 					//TITLE
-					cell = row.createCell(TITLE);
-					if ((coalesce(requirement, "Title")).equals("Title"))
+					cell = row.createCell(TITLE);					
+					if ((coalesce(requirement, "Title")).equals("Title")){
 						cell.setCellValue(requirement);
+					}
 					else
 						cell.setCellValue("");
 					//CHAPTER
@@ -154,10 +164,25 @@ public class converter {
 						cell.setCellValue("");
 					//SUBCHAPTER
 					cell = row.createCell(SUBCHAPTER);
-					if ((coalesce(requirement, "Subchapter")).equals("Subchapter"))
-						cell.setCellValue(requirement);
-					else
-						cell.setCellValue("");
+					Node parag_prev;
+					Element paragrapf_prev;
+					String requirement_prev = "";
+					if (b != 0){
+						parag_prev = para.item(b - 1);
+						if (parag_prev.getNodeType() == Node.ELEMENT_NODE){
+							paragrapf_prev = (Element) parag_prev;
+							requirement_prev = paragrapf_prev.getTextContent();
+						}
+					}	
+					try {
+						if (!((coalesce(requirement, "Subchapter")).equals("Subchapter")) && ((coalesce(requirement_prev, "Chapter")).equals("Chapter")))
+							cell.setCellValue("DOES NOT HAVE SUBCHAPTER");
+						else if ((coalesce(requirement, "Subchapter")).equals("Subchapter"))
+							cell.setCellValue(requirement);
+					}
+					catch (NullPointerException e){
+						cell.setCellValue("DOES NOT HAVE SUBCHAPTER");
+					}
 					//ARTICLE
 					cell = row.createCell(ARTICLE);
 					if ((coalesce(requirement, "Article")).equals("Article"))
@@ -170,12 +195,23 @@ public class converter {
 						cell.setCellValue(requirement);
 					else
 						cell.setCellValue("");
-						
-					//Row row = sheet.createRow(rowNum++);;
-					
-					//cell = row.createCell(CHAPTER);
-	    			//cell.setCellValue(chapter);
-	    						    			
+					//CITATION
+					//cell = row.createCell(CITATION);
+					//String cita = "";
+					//String titleCell = (row.getCell(TITLE)).getStringCellValue();
+					//String secCell = (row.getCell(SECTION)).getStringCellValue();
+					//String title = titleCell.replaceAll("[^0-9.]", "");
+					//String sec = secCell.replaceAll("[^0-9.]", "");
+					//cita = title + " NYCAC § " + sec;
+					//try {
+					//	System.out.println("CITATION: " + title + " NYCAC § " + sec);
+					//	cell.setCellValue(cita);
+					//	System.out.println(cita);
+					//}
+					//catch (NullPointerException e){
+					//	cell.setCellValue("");
+					//}
+								    			
 	    			cell = row.createCell(FILE_NAME);
 	    			String file_name = (file.getName()).replaceAll("[^0-9]", "");
 	    			cell.setCellValue(Integer.parseInt(file_name));
@@ -200,8 +236,8 @@ public class converter {
 		//boolean confirmed = reader.nextBoolean();
 		
     	///////////////////////////////         READ       ///////////////////////////////////////
-  	
-    	//TITLE
+  		//boolean valid = false;
+    	//TITLE_NUM
     	List<Integer> occurences_title = new ArrayList<Integer>();
 		
 		for (int i = 1; i < sheet.getPhysicalNumberOfRows(); i++){
@@ -219,10 +255,10 @@ public class converter {
 			for (int index = occurences_title.get(j) + 1; index < occurences_title.get(j+1); index++){
 				Cell cellCopy = (sheet.getRow(index)).getCell(TITLE);
 				cellCopy.setCellValue(value);
-				System.out.println("			UPDATE TITLE at " + index + " with VALUE of: "+ cellCopy.getStringCellValue());
+				System.out.println("			UPDATE TITLE_NUM at " + index + " with VALUE of: "+ cellCopy.getStringCellValue());
 			}
 		}
-		System.out.println("------------------  DELETE IN PROGRESS : TITLE  ------------------");
+		System.out.println("------------------  DELETE IN PROGRESS : TITLE_NUM  ------------------");
     	for (int k = occurences_title.size() - 1; k >= 0; k--){
     		removeRow(sheet, occurences_title.get(k));
     		System.out.println("Deleting row: " + occurences_title.get(k));
@@ -238,7 +274,7 @@ public class converter {
 		}
 		occurences_chapter.add(sheet.getPhysicalNumberOfRows());
 		for (int j = 0; j < occurences_chapter.size() - 1; j++){
-			System.out.println("FOUND TITLES AT: ");
+			System.out.println("FOUND CHAPTERS AT: ");
 			System.out.println("		" + occurences_chapter.get(j) + " TO " + occurences_chapter.get(j+1));
 			String value = ((sheet.getRow(occurences_chapter.get(j))).getCell(CHAPTER)).getStringCellValue();
 			System.out.println("		Copying: " + value);
@@ -267,6 +303,8 @@ public class converter {
 			System.out.println("FOUND TITLES AT: ");
 			System.out.println("		" + occurences_subchapter.get(j) + " TO " + occurences_subchapter.get(j+1));
 			String value = ((sheet.getRow(occurences_subchapter.get(j))).getCell(SUBCHAPTER)).getStringCellValue();
+			if (value.equals("DOES NOT HAVE SUBCHAPTER"))
+				value = " ";
 			System.out.println("		Copying: " + value);
 			for (int index = occurences_subchapter.get(j) + 1; index < occurences_subchapter.get(j+1); index++){
 				Cell cellCopy = (sheet.getRow(index)).getCell(SUBCHAPTER);
@@ -349,7 +387,7 @@ public class converter {
     		if (removee != null)
     			sheet.removeRow(removee);
     	}
-    }   
+    }
     public static String coalesce(String rem, String value) {
 	    /*
 	    for(int i = 0; i < obj.length(); i++)
@@ -422,8 +460,8 @@ public class converter {
         cell.setCellValue("File");
         cell.setCellStyle(style);
 	
-		//LEVEL 1 : TITLE	
-		//private final static int TITLE = 1; 		//HEADING, Regex excluding alpha characters
+		//LEVEL 1 : TITLE_NUM	
+		//private final static int TITLE_NUM = 1; 		//HEADING, Regex excluding alpha characters
 		cell = row.createCell(TITLE);
         cell.setCellValue("Title");
         cell.setCellStyle(style);
