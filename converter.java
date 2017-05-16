@@ -15,10 +15,6 @@ import java.io.FileNotFoundException;
 
 import java.util.*;
 
-//import java.util.Scanner;
-//import java.util.Arrays;
-//import java.util.Comparator;
-
 /**
  * Convert New York City Administrative Code XML files to Excel Spreadsheet
  * @imports Apache POI, Apache Commons, W3C libraries
@@ -34,10 +30,10 @@ public class converter {
 	private final static int FILE_NAME = 0;
 	
 	//LEVEL 1 : TITLE_NUM	
-	//private final static int RECORD_ID = 1; 		//TITLE_NUM attribute id
+	//private final static int RECORD_ID = 1; 			//TITLE_NUM attribute id
 	//private final static int RECORD_NUMBER = 2;		//TITLE_NUM attribute number
-	//private final static int RECORD_VERSION = 3;	//TITLE_NUM attribute version
-	//private final static int TITLE_NUM = 4; 		//HEADING, Regex excluding alpha characters
+	//private final static int RECORD_VERSION = 3;		//TITLE_NUM attribute version
+	//private final static int TITLE_NUM = 4; 			//HEADING, Regex excluding alpha characters
 	//private final static int TITLE_SUBJECT = 5;		//HEADING, substring of everything beyond the ': '
 	private final static int TITLE = 1;
 	
